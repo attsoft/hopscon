@@ -1,0 +1,1218 @@
+[
+    {
+        "name": "Afghanistan",
+        "code": "AF",
+		"telcode":"+93"
+    },
+    {
+        "name": "Åland Islands",
+        "code": "AX",
+		"telcode":"+358"
+    },
+    {
+        "name": "Albania",
+        "code": "AL",
+		"telcode":"+355"
+    },
+    {
+        "name": "Algeria",
+        "code": "DZ",
+		"telcode":"+213"
+    },
+    {
+        "name": "American Samoa",
+        "code": "AS",
+		"telcode":"+1684"
+    },
+    {
+        "name": "AndorrA",
+        "code": "AD",
+		"telcode":"+376"
+    },
+    {
+        "name": "Angola",
+        "code": "AO",
+		"telcode":"+244"
+    },
+    {
+        "name": "Anguilla",
+        "code": "AI",
+		"telcode":"+1264"
+    },
+    {
+        "name": "Antarctica",
+        "code": "AQ",
+		"telcode":"+672"
+    },
+    {
+        "name": "Antigua and Barbuda",
+        "code": "AG",
+		"telcode":"+1268"
+    },
+    {
+        "name": "Argentina",
+        "code": "AR",
+		"telcode":"+54"
+    },
+    {
+        "name": "Armenia",
+        "code": "AM",
+		"telcode":"+374"
+    },
+    {
+        "name": "Aruba",
+        "code": "AW",
+		"telcode":"+297"
+    },
+    {
+        "name": "Australia",
+        "code": "AU",
+		"telcode":"+61"
+    },
+    {
+        "name": "Austria",
+        "code": "AT",
+		"telcode":"+43"
+    },
+    {
+        "name": "Azerbaijan",
+        "code": "AZ",
+		"telcode":"+994"
+    },
+    {
+        "name": "Bahamas",
+        "code": "BS",
+		"telcode":"+1242"
+    },
+    {
+        "name": "Bahrain",
+        "code": "BH",
+		"telcode":"+973"
+    },
+    {
+        "name": "Bangladesh",
+        "code": "BD",
+		"telcode":"+880"
+    },
+    {
+        "name": "Barbados",
+        "code": "BB",
+		"telcode":"+1246"
+    },
+    {
+        "name": "Belarus",
+        "code": "BY",
+		"telcode":"+375"
+    },
+    {
+        "name": "Belgium",
+        "code": "BE",
+		"telcode":"+32"
+    },
+    {
+        "name": "Belize",
+        "code": "BZ",
+		"telcode":"+501"
+    },
+    {
+        "name": "Benin",
+        "code": "BJ",
+		"telcode":"+229"
+    },
+    {
+        "name": "Bermuda",
+        "code": "BM",
+		"telcode":"+1441"
+    },
+    {
+        "name": "Bhutan",
+        "code": "BT",
+		"telcode":"+975"
+    },
+    {
+        "name": "Bolivia",
+        "code": "BO",
+		"telcode":"+591"
+    },
+    {
+        "name": "Bosnia and Herzegovina",
+        "code": "BA",
+		"telcode":"+387"
+    },
+    {
+        "name": "Botswana",
+        "code": "BW",
+		"telcode":"+267"
+    },
+    {
+        "name": "Bouvet Island",
+        "code": "BV",
+		"telcode":"+55"
+    },
+    {
+        "name": "Brazil",
+        "code": "BR",
+		"telcode":"+55"
+    },
+    {
+        "name": "British Indian Ocean Territory",
+        "code": "IO",
+		"telcode":"+246"
+    },
+    {
+        "name": "Brunei Darussalam",
+        "code": "BN",
+		"telcode":"+673"
+    },
+    {
+        "name": "Bulgaria",
+        "code": "BG",
+		"telcode":"+359"
+    },
+    {
+        "name": "Burkina Faso",
+        "code": "BF",
+		"telcode":"+226"
+    },
+    {
+        "name": "Burundi",
+        "code": "BI",
+		"telcode":"+257"
+    },
+    {
+        "name": "Cambodia",
+        "code": "KH",
+		"telcode":"+855"
+    },
+    {
+        "name": "Cameroon",
+        "code": "CM",
+		"telcode":"+237"
+    },
+    {
+        "name": "Canada",
+        "code": "CA",
+		"telcode":"+1"
+    },
+    {
+        "name": "Cape Verde",
+        "code": "CV",
+		"telcode":"+238"
+    },
+    {
+        "name": "Cayman Islands",
+        "code": "KY",
+		"telcode":"+1345"
+    },
+    {
+        "name": "Central African Republic",
+        "code": "CF",
+		"telcode":"+236"
+    },
+    {
+        "name": "Chad",
+        "code": "TD",
+		"telcode":"+235"
+    },
+    {
+        "name": "Chile",
+        "code": "CL",
+		"telcode":"+56"
+    },
+    {
+        "name": "China",
+        "code": "CN",
+		"telcode":"+86"
+    },
+    {
+        "name": "Christmas Island",
+        "code": "CX",
+		"telcode":"+61"
+    },
+    {
+        "name": "Cocos (Keeling) Islands",
+        "code": "CC",
+		"telcode":"+61"
+    },
+    {
+        "name": "Colombia",
+        "code": "CO",
+		"telcode":"+57"
+    },
+    {
+        "name": "Comoros",
+        "code": "KM",
+		"telcode":"+269"
+    },
+    {
+        "name": "Congo",
+        "code": "CG",
+		"telcode":"+242"
+    },
+    {
+        "name": "Congo, The Democratic Republic of the",
+        "code": "CD",
+		"telcode":"+243"
+    },
+    {
+        "name": "Cook Islands",
+        "code": "CK",
+		"telcode":"+682"
+    },
+    {
+        "name": "Costa Rica",
+        "code": "CR",
+		"telcode":"+506"
+    },
+    {
+        "name": "Cote D\"Ivoire",
+        "code": "CI",
+		"telcode":"+225"
+    },
+    {
+        "name": "Croatia",
+        "code": "HR",
+		"telcode":"+385"
+    },
+    {
+        "name": "Cuba",
+        "code": "CU",
+		"telcode":"+53"
+    },
+    {
+        "name": "Cyprus",
+        "code": "CY",
+		"telcode":"+357"
+    },
+    {
+        "name": "Czech Republic",
+        "code": "CZ",
+		"telcode":"+420"
+    },
+    {
+        "name": "Denmark",
+        "code": "DK",
+		"telcode":"+45"
+    },
+    {
+        "name": "Djibouti",
+        "code": "DJ",
+		"telcode":"+253"
+    },
+    {
+        "name": "Dominica",
+        "code": "DM",
+		"telcode":"+1767"
+    },
+    {
+        "name": "Dominican Republic",
+        "code": "DO",
+		"telcode":"+1809"
+    },
+    {
+        "name": "Ecuador",
+        "code": "EC",
+		"telcode":"+593"
+    },
+    {
+        "name": "Egypt",
+        "code": "EG",
+		"telcode":"+20"
+    },
+    {
+        "name": "El Salvador",
+        "code": "SV",
+		"telcode":"+503"
+    },
+    {
+        "name": "Equatorial Guinea",
+        "code": "GQ",
+		"telcode":"+240"
+    },
+    {
+        "name": "Eritrea",
+        "code": "ER",
+		"telcode":"+291"
+    },
+    {
+        "name": "Estonia",
+        "code": "EE",
+		"telcode":"+372"
+    },
+    {
+        "name": "Ethiopia",
+        "code": "ET",
+		"telcode":"+251"
+    },
+    {
+        "name": "Falkland Islands (Malvinas)",
+        "code": "FK",
+		"telcode":"+500"
+    },
+    {
+        "name": "Faroe Islands",
+        "code": "FO",
+		"telcode":"+298"
+    },
+    {
+        "name": "Fiji",
+        "code": "FJ",
+		"telcode":"+679"
+    },
+    {
+        "name": "Finland",
+        "code": "FI",
+		"telcode":"+358"
+    },
+    {
+        "name": "France",
+        "code": "FR",
+		"telcode":"+33"
+    },
+    {
+        "name": "French Guiana",
+        "code": "GF",
+		"telcode":"+594"
+    },
+    {
+        "name": "French Polynesia",
+        "code": "PF",
+		"telcode":"+689"
+    },
+    {
+        "name": "French Southern Territories",
+        "code": "TF",
+		"telcode":"+262"
+    },
+    {
+        "name": "Gabon",
+        "code": "GA",
+		"telcode":"+241"
+    },
+    {
+        "name": "Gambia",
+        "code": "GM",
+		"telcode":"+220"
+    },
+    {
+        "name": "Georgia",
+        "code": "GE",
+		"telcode":"+995"
+    },
+    {
+        "name": "Germany",
+        "code": "DE",
+		"telcode":"+49"
+    },
+    {
+        "name": "Ghana",
+        "code": "GH",
+		"telcode":"+233"
+    },
+    {
+        "name": "Gibraltar",
+        "code": "GI",
+		"telcode":"+350"
+    },
+    {
+        "name": "Greece",
+        "code": "GR",
+		"telcode":"+30"
+    },
+    {
+        "name": "Greenland",
+        "code": "GL",
+		"telcode":"+299"
+    },
+    {
+        "name": "Grenada",
+        "code": "GD",
+		"telcode":"+1473"
+    },
+    {
+        "name": "Guadeloupe",
+        "code": "GP",
+		"telcode":"+590"
+    },
+    {
+        "name": "Guam",
+        "code": "GU",
+		"telcode":"+1671"
+    },
+    {
+        "name": "Guatemala",
+        "code": "GT",
+		"telcode":"+502"
+    },
+    {
+        "name": "Guernsey",
+        "code": "GG",
+		"telcode":"+44"
+    },
+    {
+        "name": "Guinea",
+        "code": "GN",
+		"telcode":"+224"
+    },
+    {
+        "name": "Guinea-Bissau",
+        "code": "GW",
+		"telcode":"+245"
+    },
+    {
+        "name": "Guyana",
+        "code": "GY",
+		"telcode":"+592"
+    },
+    {
+
+        "name": "Haiti",
+        "code": "HT",
+		"telcode":"+509"
+    },
+    {
+        "name": "Heard Island and Mcdonald Islands",
+        "code": "HM",
+		"telcode":"+672"
+    },
+    {
+        "name": "Holy See (Vatican City State)",
+        "code": "VA",
+		"telcode":"+39"
+    },
+    {
+        "name": "Honduras",
+        "code": "HN",
+		"telcode":"+504"
+    },
+    {
+        "name": "Hong Kong",
+        "code": "HK",
+		"telcode":"+852"
+    },
+    {
+        "name": "Hungary",
+        "code": "HU",
+		"telcode":"+36"
+    },
+    {
+        "name": "Iceland",
+        "code": "IS",
+		"telcode":"+354"
+    },
+    {
+        "name": "India",
+        "code": "IN",
+		"telcode":"+91"
+    },
+    {
+        "name": "Indonesia",
+        "code": "ID",
+        "telcode":"+62"
+    },
+    {
+        "name": "Iran, Islamic Republic Of",
+        "code": "IR",
+        "telcode":"+98"
+    },
+    {
+        "name": "Iraq",
+        "code": "IQ",
+        "telcode":"+964"
+    },
+    {
+        "name": "Ireland",
+        "code": "IE",
+        "telcode":"+353"
+    },
+    {
+        "name": "Isle of Man",
+        "code": "IM",
+        "telcode":"+44"
+    },
+    {
+        "name": "Israel",
+        "code": "IL",
+        "telcode":"+972"
+    },
+    {
+        "name": "Italy",
+        "code": "IT",
+        "telcode":"+39"
+    },
+    {
+        "name": "Jamaica",
+        "code": "JM",
+        "telcode":"+1876"
+    },
+    {
+        "name": "Japan",
+        "code": "JP",
+        "telcode":"+81"
+    },
+    {
+        "name": "Jersey",
+        "code": "JE",
+        "telcode":"+44"
+    },
+    {
+        "name": "Jordan",
+        "code": "JO",
+        "telcode":"+962"
+    },
+    {
+        "name": "Kazakhstan",
+        "code": "KZ",
+        "telcode":"+7"
+    },
+    {
+        "name": "Kenya",
+        "code": "KE",
+        "telcode":"+254"
+    },
+    {
+        "name": "Kiribati",
+        "code": "KI",
+        "telcode":"+686"
+    },
+    {
+        "name": "Korea, Democratic People\"S Republic of",
+        "code": "KP",
+        "telcode":"+850"
+    },
+    {
+        "name": "Korea, Republic of",
+        "code": "KR",
+        "telcode":"+82"
+    },
+    {
+        "name": "Kuwait",
+        "code": "KW",
+        "telcode":"+965"
+    },
+    {
+        "name": "Kyrgyzstan",
+        "code": "KG",
+        "telcode":"+996"
+    },
+    {
+        "name": "Lao People\"S Democratic Republic",
+        "code": "LA",
+        "telcode":"+856"
+    },
+    {
+        "name": "Latvia",
+        "code": "LV",
+        "telcode":"+371"
+    },
+    {
+        "name": "Lebanon",
+        "code": "LB",
+        "telcode":"+961"
+    },
+    {
+        "name": "Lesotho",
+        "code": "LS",
+        "telcode":"+266"
+    },
+    {
+        "name": "Liberia",
+        "code": "LR",
+        "telcode":"+231"
+    },
+    {
+        "name": "Libyan Arab Jamahiriya",
+        "code": "LY",
+        "telcode":"+218"
+    },
+    {
+        "name": "Liechtenstein",
+        "code": "LI",
+        "telcode":"+423"
+    },
+    {
+        "name": "Lithuania",
+        "code": "LT",
+		"telcode":"+370"
+    },
+    {
+        "name": "Luxembourg",
+        "code": "LU",
+		"telcode":"+352"
+    },
+    {
+        "name": "Macao",
+        "code": "MO",
+        "telcode":"+853"
+    },
+    {
+        "name": "Macedonia, The Former Yugoslav Republic of",
+        "code": "MK",
+        "telcode":"+389"
+    },
+    {
+        "name": "Madagascar",
+        "code": "MG",
+        "telcode":"+261"
+    },
+    {
+        "name": "Malawi",
+        "code": "MW",
+        "telcode":"+265"
+    },
+    {
+        "name": "Malaysia",
+        "code": "MY",
+        "telcode":"+60"
+    },
+    {
+        "name": "Maldives",
+        "code": "MV",
+        "telcode":"+960"
+    },
+    {
+        "name": "Mali",
+        "code": "ML",
+        "telcode":"+223"
+    },
+    {
+        "name": "Malta",
+        "code": "MT",
+        "telcode":"+356"
+    },
+    {
+        "name": "Marshall Islands",
+        "code": "MH",
+        "telcode":"+692"
+    },
+    {
+        "name": "Martinique",
+        "code": "MQ",
+        "telcode":"+596"
+    },
+    {
+        "name": "Mauritania",
+        "code": "MR",
+        "telcode":"+222"
+    },
+    {
+        "name": "Mauritius",
+        "code": "MU",
+        "telcode":"+230"
+    },
+    {
+        "name": "Mayotte",
+        "code": "YT",
+        "telcode":"+262"
+    },
+    {
+        "name": "Mexico",
+        "code": "MX",
+        "telcode":"+52"
+    },
+    {
+        "name": "Micronesia, Federated States of",
+        "code": "FM",
+        "telcode":"+691"
+    },
+    {
+        "name": "Moldova, Republic of",
+        "code": "MD",
+        "telcode":"+373"
+    },
+    {
+        "name": "Monaco",
+        "code": "MC",
+        "telcode":"+377"
+    },
+    {
+        "name": "Mongolia",
+        "code": "MN",
+        "telcode":"+976"
+    },
+    {
+        "name": "Montserrat",
+        "code": "MS",
+        "telcode":"+1664"
+    },
+    {
+        "name": "Morocco",
+        "code": "MA",
+        "telcode":"+212"
+    },
+    {
+        "name": "Mozambique",
+        "code": "MZ",
+        "telcode":"+258"
+    },
+    {
+        "name": "Myanmar",
+        "code": "MM",
+        "telcode":"+95"
+    },
+    {
+        "name": "Namibia",
+        "code": "NA",
+        "telcode":"+264"
+    },
+    {
+        "name": "Nauru",
+        "code": "NR",
+        "telcode":"+674"
+    },
+    {
+        "name": "Nepal",
+        "code": "NP",
+        "telcode":"+977"
+    },
+    {
+        "name": "Netherlands",
+        "code": "NL",
+        "telcode":"+31"
+    },
+    {
+        "name": "Netherlands Antilles",
+        "code": "AN",
+        "telcode":"+599"
+    },
+    {
+        "name": "New Caledonia",
+        "code": "NC",
+        "telcode":"+687"
+    },
+    {
+        "name": "New Zealand",
+        "code": "NZ",
+        "telcode":"+64"
+    },
+    {
+        "name": "Nicaragua",
+        "code": "NI",
+        "telcode":"+505"
+    },
+    {
+        "name": "Niger",
+        "code": "NE",
+        "telcode":"+227"
+    },
+    {
+        "name": "Nigeria",
+        "code": "NG",
+        "telcode":"+234"
+    },
+    {
+        "name": "Niue",
+        "code": "NU",
+        "telcode":"+683"
+    },
+    {
+        "name": "Norfolk Island",
+        "code": "NF",
+        "telcode":"+672"
+    },
+    {
+        "name": "Northern Mariana Islands",
+        "code": "MP",
+        "telcode":"+1670"
+    },
+    {
+        "name": "Norway",
+        "code": "NO",
+        "telcode":"+47"
+    },
+    {
+        "name": "Oman",
+        "code": "OM",
+        "telcode":"+968"
+    },
+    {
+        "name": "Pakistan",
+        "code": "PK",
+        "telcode":"+92"
+    },
+    {
+        "name": "Palau",
+        "code": "PW",
+        "telcode":"+680"
+    },
+    {
+        "name": "Palestinian Territory, Occupied",
+        "code": "PS",
+        "telcode":"+970"
+    },
+    {
+        "name": "Panama",
+        "code": "PA",
+        "telcode":"+507"
+    },
+    {
+        "name": "Papua New Guinea",
+        "code": "PG",
+        "telcode":"+675"
+    },
+    {
+        "name": "Paraguay",
+        "code": "PY",
+        "telcode":"+595"
+    },
+    {
+        "name": "Peru",
+        "code": "PE",
+        "telcode":"+51"
+    },
+    {
+        "name": "Philippines",
+        "code": "PH",
+        "telcode":"+63"
+    },
+    {
+        "name": "Pitcairn",
+        "code": "PN",
+        "telcode":"+870"
+    },
+    {
+        "name": "Poland",
+        "code": "PL",
+        "telcode":"+48"
+    },
+    {
+        "name": "Portugal",
+        "code": "PT",
+        "telcode":"+351"
+    },
+    {
+        "name": "Puerto Rico",
+        "code": "PR",
+        "telcode":"+1"
+    },
+    {
+        "name": "Qatar",
+        "code": "QA",
+        "telcode":"+974"
+    },
+    {
+        "name": "Reunion",
+        "code": "RE",
+        "telcode":"+262"
+    },
+    {
+        "name": "Romania",
+        "code": "RO",
+        "telcode":"+40"
+    },
+    {
+        "name": "Russian Federation",
+        "code": "RU",
+        "telcode":"+7"
+    },
+    {
+        "name": "RWANDA",
+        "code": "RW",
+        "telcode":"+250"
+    },
+    {
+        "name": "Saint Helena",
+        "code": "SH",
+        "telcode":"+290"
+    },
+    {
+        "name": "Saint Kitts and Nevis",
+        "code": "KN",
+        "telcode":"+1869"
+    },
+    {
+        "name": "Saint Lucia",
+        "code": "LC",
+        "telcode":"+1758"
+    },
+    {
+        "name": "Saint Pierre and Miquelon",
+        "code": "PM",
+        "telcode":"+508"
+    },
+    {
+        "name": "Saint Vincent and the Grenadines",
+        "code": "VC",
+        "telcode":"+1784"
+    },
+    {
+        "name": "Samoa",
+        "code": "WS",
+        "telcode":"+685"
+    },
+    {
+        "name": "San Marino",
+        "code": "SM",
+        "telcode":"+378"
+    },
+    {
+        "name": "Sao Tome and Principe",
+        "code": "ST",
+        "telcode":"+239"
+    },
+    {
+        "name": "Saudi Arabia",
+        "code": "SA",
+        "telcode":"+966"
+    },
+    {
+        "name": "Senegal",
+        "code": "SN",
+        "telcode":"+221"
+    },
+    {
+        "name": "Serbia and Montenegro",
+        "code": "CS",
+        "telcode":"+381"
+    },
+    {
+        "name": "Seychelles",
+        "code": "SC",
+        "telcode":"+248"
+    },
+    {
+        "name": "Sierra Leone",
+        "code": "SL",
+        "telcode":"+232"
+    },
+    {
+        "name": "Singapore",
+        "code": "SG",
+        "telcode":"+65"
+    },
+    {
+        "name": "Slovakia",
+        "code": "SK",
+        "telcode":"+421"
+    },
+    {
+        "name": "Slovenia",
+        "code": "SI",
+        "telcode":"+386"
+    },
+    {
+        "name": "Solomon Islands",
+        "code": "SB",
+        "telcode":"+677"
+    },
+    {
+        "name": "Somalia",
+        "code": "SO",
+        "telcode":"+252"
+    },
+    {
+        "name": "South Africa",
+        "code": "ZA",
+        "telcode":"+27"
+    },
+    {
+        "name": "South Georgia and the South Sandwich Islands",
+        "code": "GS",
+        "telcode":"+500"
+    },
+    {
+        "name": "Spain",
+        "code": "ES",
+        "telcode":"+34"
+    },
+    {
+        "name": "Sri Lanka",
+        "code": "LK",
+        "telcode":"+94"
+    },
+    {
+        "name": "Sudan",
+        "code": "SD",
+        "telcode":"+249"
+    },
+    {
+        "name": "Suriname",
+        "code": "SR",
+        "telcode":"+597"
+    },
+    {
+        "name": "Svalbard and Jan Mayen",
+        "code": "SJ",
+        "telcode":"+47"
+    },
+    {
+        "name": "Swaziland",
+        "code": "SZ",
+        "telcode":"+268"
+    },
+    {
+        "name": "Sweden",
+        "code": "SE",
+        "telcode":"+46"
+    },
+    {
+        "name": "Switzerland",
+        "code": "CH",
+        "telcode":"+41"
+    },
+    {
+        "name": "Syrian Arab Republic",
+        "code": "SY",
+        "telcode":"+963"
+    },
+    {
+        "name": "Taiwan, Province of China",
+        "code": "TW",
+        "telcode":"+886"
+    },
+    {
+        "name": "Tajikistan",
+        "code": "TJ",
+        "telcode":"+992"
+    },
+    {
+        "name": "Tanzania, United Republic of",
+        "code": "TZ",
+        "telcode":"+255"
+    },
+    {
+        "name": "Thailand",
+        "code": "TH",
+        "telcode":"+66"
+    },
+    {
+        "name": "Timor-Leste",
+        "code": "TL",
+        "telcode":"+670"
+    },
+    {
+        "name": "Togo",
+        "code": "TG",
+        "telcode":"+228"
+    },
+    {
+        "name": "Tokelau",
+        "code": "TK",
+        "telcode":"+690"
+    },
+    {
+        "name": "Tonga",
+        "code": "TO",
+        "telcode":"+676"
+    },
+    {
+        "name": "Trinidad and Tobago",
+        "code": "TT",
+        "telcode":"+1868"
+    },
+    {
+        "name": "Tunisia",
+        "code": "TN",
+        "telcode":"+216"
+    },
+    {
+        "name": "Turkey",
+        "code": "TR",
+        "telcode":"+90"
+    },
+    {
+        "name": "Turkmenistan",
+        "code": "TM",
+        "telcode":"+993"
+    },
+    {
+        "name": "Turks and Caicos Islands",
+        "code": "TC",
+        "telcode":"+1649"
+    },
+    {
+        "name": "Tuvalu",
+        "code": "TV",
+        "telcode":"+688"
+    },
+    {
+        "name": "Uganda",
+        "code": "UG",
+        "telcode":"+256"
+    },
+    {
+        "name": "Ukraine",
+        "code": "UA",
+        "telcode":"+380"
+    },
+    {
+        "name": "United Arab Emirates",
+        "code": "AE",
+        "telcode":"+971"
+    },
+    {
+        "name": "United Kingdom",
+        "code": "GB",
+        "telcode":"+44"
+    },
+    {
+        "name": "United States",
+        "code": "US",
+		"telcode":"+1"
+    },
+    {
+        "name": "United States Minor Outlying Islands",
+        "code": "UM",
+        "telcode":"+246"
+    },
+    {
+        "name": "Uruguay",
+        "code": "UY",
+        "telcode":"+598"
+    },
+    {
+        "name": "Uzbekistan",
+        "code": "UZ",
+        "telcode":"+998"
+    },
+    {
+        "name": "Vanuatu",
+        "code": "VU",
+        "telcode":"+678"
+    },
+    {
+        "name": "Venezuela",
+        "code": "VE",
+        "telcode":"+58"
+    },
+    {
+        "name": "Viet Nam",
+        "code": "VN",
+        "telcode":"+84"
+    },
+    {
+        "name": "Virgin Islands, British",
+        "code": "VG",
+        "telcode":"+1284"
+    },
+    {
+        "name": "Virgin Islands, U.S.",
+        "code": "VI",
+        "telcode":"+1340"
+    },
+    {
+        "name": "Wallis and Futuna",
+        "code": "WF",
+        "telcode":"+681"
+    },
+    {
+        "name": "Western Sahara",
+        "code": "EH",
+        "telcode":"+212"
+    },
+    {
+        "name": "Yemen",
+        "code": "YE",
+        "telcode":"+967"
+    },
+    {
+        "name": "Zambia",
+        "code": "ZM",
+        "telcode":"+260"
+    },
+    {
+        "name": "Zimbabwe",
+        "code": "ZW",
+        "telcode":"+263"
+    }
+]

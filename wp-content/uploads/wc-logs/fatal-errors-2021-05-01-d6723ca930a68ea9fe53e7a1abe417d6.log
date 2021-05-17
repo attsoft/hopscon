@@ -1,0 +1,64 @@
+2021-05-01T07:15:02+00:00 CRITICAL Uncaught Error: Class 'Dokan_Seller_Setup_Wizard' not found in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/functions.php:255
+Stack trace:
+#0 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-settings.php(525): include()
+#1 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-config.php(179): require_once('/home/attsoft/p...')
+#2 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-load.php(37): require_once('/home/attsoft/p...')
+#3 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-blog-header.php(13): require_once('/home/attsoft/p...')
+#4 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/index.php(17): require('/home/attsoft/p...')
+#5 {main}
+  thrown in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/functions.php on line 255
+
+2021-05-01T07:15:20+00:00 CRITICAL Uncaught Error: Class 'Dokan_Seller_Setup_Wizard' not found in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/functions.php:255
+Stack trace:
+#0 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-settings.php(525): include()
+#1 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-config.php(179): require_once('/home/attsoft/p...')
+#2 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-load.php(37): require_once('/home/attsoft/p...')
+#3 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-admin/admin-ajax.php(22): require_once('/home/attsoft/p...')
+#4 {main}
+  thrown in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/functions.php on line 255
+
+2021-05-01T07:15:30+00:00 CRITICAL Uncaught Error: Call to undefined function fr_address_book_for_woocommerce() in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/woocommerce/checkout/form-shipping.php:20
+Stack trace:
+#0 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce/includes/wc-core-functions.php(344): include()
+#1 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(301): wc_get_template('checkout/form-s...', Array)
+#2 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/class-wp-hook.php(287): WC_Checkout->checkout_form_shipping('')
+#3 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#5 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/woocommerce/checkout/ in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/woocommerce/checkout/form-shipping.php on line 20
+
+2021-05-01T07:16:34+00:00 CRITICAL Uncaught Error: Call to undefined function fr_address_book_for_woocommerce() in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/woocommerce/checkout/form-shipping.php:20
+Stack trace:
+#0 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce/includes/wc-core-functions.php(344): include()
+#1 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(301): wc_get_template('checkout/form-s...', Array)
+#2 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/class-wp-hook.php(287): WC_Checkout->checkout_form_shipping('')
+#3 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#5 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/woocommerce/checkout/ in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/woocommerce/checkout/form-shipping.php on line 20
+
+2021-05-01T07:17:53+00:00 CRITICAL Uncaught Error: Call to undefined function fr_address_book_for_woocommerce() in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/woocommerce/checkout/form-shipping.php:20
+Stack trace:
+#0 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce/includes/wc-core-functions.php(344): include()
+#1 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(301): wc_get_template('checkout/form-s...', Array)
+#2 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/class-wp-hook.php(287): WC_Checkout->checkout_form_shipping('')
+#3 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#5 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/woocommerce/checkout/ in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/woocommerce/checkout/form-shipping.php on line 20
+
+2021-05-01T07:18:25+00:00 CRITICAL Uncaught Error: Call to undefined function fr_address_book_for_woocommerce() in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/woocommerce/checkout/form-shipping.php:20
+Stack trace:
+#0 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce/includes/wc-core-functions.php(344): include()
+#1 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(301): wc_get_template('checkout/form-s...', Array)
+#2 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/class-wp-hook.php(287): WC_Checkout->checkout_form_shipping('')
+#3 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#5 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/woocommerce/checkout/ in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/woocommerce/checkout/form-shipping.php on line 20
+
+2021-05-01T07:20:34+00:00 CRITICAL Uncaught Error: Call to undefined function fr_address_book_for_woocommerce() in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/woocommerce/checkout/form-shipping.php:20
+Stack trace:
+#0 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce/includes/wc-core-functions.php(344): include()
+#1 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(301): wc_get_template('checkout/form-s...', Array)
+#2 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/class-wp-hook.php(287): WC_Checkout->checkout_form_shipping('')
+#3 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#5 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/woocommerce/checkout/ in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/woocommerce/checkout/form-shipping.php on line 20
+

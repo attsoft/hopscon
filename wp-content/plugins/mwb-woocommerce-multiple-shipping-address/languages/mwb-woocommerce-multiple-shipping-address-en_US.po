@@ -1,0 +1,444 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MWB Woocommerce Multiple Shipping AddressV1.0.0\n"
+"POT-Creation-Date: 2018-06-27 15:30+0530\n"
+"PO-Revision-Date: 2018-06-27 15:30+0530\n"
+"Last-Translator: \n"
+"Language-Team: makewebbetter <webmaster@makewebbetter.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"address/\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: mwb-woocommerce-multiple-shipping-address.php:110
+msgid "Welcome to MWB Woocommerce Multiple Shipping Address"
+msgstr ""
+
+#: mwb-woocommerce-multiple-shipping-address.php:110
+msgid " – < Here try to explain the Next Process after plugin activation. >"
+msgstr ""
+
+#: mwb-woocommerce-multiple-shipping-address.php:111
+msgid "< Next Process Link >"
+msgstr ""
+
+#: mwb-woocommerce-multiple-shipping-address.php:166
+msgid "Settings"
+msgstr ""
+
+#: mwb-woocommerce-multiple-shipping-address.php:195
+msgid ""
+"WooCommerce is not activated, Please activate WooCommerce first to activate "
+"MWB Woocommerce Multiple Shipping Address."
+msgstr ""
+
+#: admin/class-mwb-woocommerce-multiple-shipping-address-admin.php:123
+#: admin/class-mwb-woocommerce-multiple-shipping-address-admin.php:179
+msgid "MWB Woocommerce Multiple Shipping Address"
+msgstr ""
+
+#: admin/class-mwb-woocommerce-multiple-shipping-address-admin.php:124
+msgid "MWB WOO Multiple Shipping Address"
+msgstr ""
+
+#: admin/class-mwb-woocommerce-multiple-shipping-address-admin.php:169
+#: admin/partials/mwb-woocommerce-multiple-shipping-address-admin-license.php:41
+msgid "Activate"
+msgstr ""
+
+#: admin/class-mwb-woocommerce-multiple-shipping-address-admin.php:169
+#, php-format
+msgid ""
+" the license key before %s or you may risk losing data and the plugin will "
+"also become dysfunctional."
+msgstr ""
+
+#: admin/class-mwb-woocommerce-multiple-shipping-address-admin.php:198
+msgid "General Options"
+msgstr ""
+
+#: admin/class-mwb-woocommerce-multiple-shipping-address-admin.php:202
+msgid "License Activation"
+msgstr ""
+
+#: admin/class-mwb-woocommerce-multiple-shipping-address-admin.php:206
+msgid "Help"
+msgstr ""
+
+#: admin/class-mwb-woocommerce-multiple-shipping-address-admin.php:208
+msgid "About Us"
+msgstr ""
+
+#: admin/class-mwb-woocommerce-multiple-shipping-address-admin.php:226
+msgid "Save Options"
+msgstr ""
+
+#: admin/class-mwb-woocommerce-multiple-shipping-address-admin.php:288
+msgid "Enable Plugin"
+msgstr ""
+
+#: admin/class-mwb-woocommerce-multiple-shipping-address-admin.php:297
+msgid "Enable Multiple Shipping Addresses For Guest Users"
+msgstr ""
+
+#: admin/class-mwb-woocommerce-multiple-shipping-address-admin.php:306
+msgid "Set Time Duration For Guest Users To Save their Addresses"
+msgstr ""
+
+#: admin/class-mwb-woocommerce-multiple-shipping-address-admin.php:325
+msgid "Days"
+msgstr ""
+
+#: admin/class-mwb-woocommerce-multiple-shipping-address-admin.php:326
+msgid "Weeks"
+msgstr ""
+
+#: admin/class-mwb-woocommerce-multiple-shipping-address-admin.php:327
+msgid "Months"
+msgstr ""
+
+#: admin/class-mwb-woocommerce-multiple-shipping-address-admin.php:328
+msgid "Years"
+msgstr ""
+
+#: admin/class-mwb-woocommerce-multiple-shipping-address-admin.php:334
+msgid "Enable the checkbox if you want this extension to work."
+msgstr ""
+
+#: admin/class-mwb-woocommerce-multiple-shipping-address-admin.php:340
+msgid "Enable Multiple Shipping Addresses Plugin."
+msgstr ""
+
+#: admin/class-mwb-woocommerce-multiple-shipping-address-admin.php:345
+msgid ""
+"Enable the checkbox if you want this extension to work for guest users also."
+msgstr ""
+
+#: admin/class-mwb-woocommerce-multiple-shipping-address-admin.php:351
+msgid ""
+"Enable Multiple Shipping Addresses For Guest Users For Enter Multiple "
+"Addresses."
+msgstr ""
+
+#: admin/class-mwb-woocommerce-multiple-shipping-address-admin.php:356
+msgid "Enter the cookies value if you want to save guest users addresses."
+msgstr ""
+
+#: admin/class-mwb-woocommerce-multiple-shipping-address-admin.php:361
+msgid "Enter Time Value"
+msgstr ""
+
+#: admin/class-mwb-woocommerce-multiple-shipping-address-admin.php:415
+msgid "Successfully Verified..."
+msgstr ""
+
+#: admin/class-mwb-woocommerce-multiple-shipping-address-admin.php:419
+msgid "License Verification Failed."
+msgstr ""
+
+#: admin/partials/mwb-woocommerce-multiple-shipping-address-admin-help.php:19
+msgid ""
+"Your request is submitted successfully. Our team will respond as soon as "
+"possible."
+msgstr ""
+
+#: admin/partials/mwb-woocommerce-multiple-shipping-address-admin-help.php:24
+msgid "Your request is not submitted. Please try again."
+msgstr ""
+
+#: admin/partials/mwb-woocommerce-multiple-shipping-address-admin-help.php:36
+msgid "Suggestion or Query"
+msgstr ""
+
+#: admin/partials/mwb-woocommerce-multiple-shipping-address-admin-help.php:39
+msgid "Enter Suggestion or Query title here"
+msgstr ""
+
+#: admin/partials/mwb-woocommerce-multiple-shipping-address-admin-help.php:45
+msgid "Enter Suggestion or Query detail here"
+msgstr ""
+
+#: admin/partials/mwb-woocommerce-multiple-shipping-address-admin-help.php:51
+msgid "Send Suggestion"
+msgstr ""
+
+#: admin/partials/mwb-woocommerce-multiple-shipping-address-admin-help.php:71
+msgid "Documentation"
+msgstr ""
+
+#: admin/partials/mwb-woocommerce-multiple-shipping-address-admin-help.php:77
+msgid "FAQ"
+msgstr ""
+
+#: admin/partials/mwb-woocommerce-multiple-shipping-address-admin-about_us.php:30
+msgid ""
+"Our professional team deals with throughout analysis of the inquiry "
+"published, support team maintains a detailed report on the inquiry extended "
+"by the customer. Then a meeting gets scheduled with our project manager with "
+"who guidance a roadmap gets managed and according to it, work starts off! "
+"Apart from this, you will get 24x7 support service and quick response"
+msgstr ""
+
+#: admin/partials/mwb-woocommerce-multiple-shipping-address-admin-about_us.php:46
+msgid ""
+"Our team of trendsetters largely comprise of 5+ years of experience holder "
+"professionals from the industry who well know the Knitty-gritty of the "
+"industry, designers, content visualizers, developers and other creative "
+"professionals at large. We have surely spent much time designing great "
+"solutions for your web's smooth functioning all from scratch and thus we "
+"came out as great creators"
+msgstr ""
+
+#: admin/partials/mwb-woocommerce-multiple-shipping-address-admin-about_us.php:47
+msgid ""
+"In next 20 years, we will try to come out with something more valuable yet "
+"outstanding digital result for the new world which is ready to knock our "
+"doors!"
+msgstr ""
+
+#: admin/partials/mwb-woocommerce-multiple-shipping-address-admin-about_us.php:52
+msgid "our plans"
+msgstr ""
+
+#: admin/partials/mwb-woocommerce-multiple-shipping-address-admin-about_us.php:60
+msgid ""
+"We are always trying to help our clients with all possible manners thats why "
+"we are came with monthly/yearly basis plan so purchase a plan now and we "
+"will take care of all things"
+msgstr ""
+
+#: admin/partials/mwb-woocommerce-multiple-shipping-address-admin-about_us.php:66
+msgid "Monthly/Yearly Plan"
+msgstr ""
+
+#: admin/partials/mwb-woocommerce-multiple-shipping-address-admin-about_us.php:72
+msgid "our microservices"
+msgstr ""
+
+#: admin/partials/mwb-woocommerce-multiple-shipping-address-admin-about_us.php:80
+msgid ""
+"We are also provide micro services for taking sort term of services and our "
+"experts will boost your site so please take a look of our micro-services"
+msgstr ""
+
+#: admin/partials/mwb-woocommerce-multiple-shipping-address-admin-about_us.php:85
+msgid "Check Our Microservices"
+msgstr ""
+
+#: admin/partials/mwb-woocommerce-multiple-shipping-address-admin-about_us.php:100
+msgid "our featured plugins"
+msgstr ""
+
+#: admin/partials/mwb-woocommerce-multiple-shipping-address-admin-about_us.php:127
+msgid "Buy Now"
+msgstr ""
+
+#: admin/partials/mwb-woocommerce-multiple-shipping-address-admin-license.php:20
+msgid "Enter your License"
+msgstr ""
+
+#: admin/partials/mwb-woocommerce-multiple-shipping-address-admin-license.php:23
+msgid "This is the License Activation Panel. After purchasing extension from "
+msgstr ""
+
+#: admin/partials/mwb-woocommerce-multiple-shipping-address-admin-license.php:25
+msgid "MakeWebBetter"
+msgstr ""
+
+#: admin/partials/mwb-woocommerce-multiple-shipping-address-admin-license.php:28
+msgid ""
+"you will get the purchase code of this extension. Please verify your "
+"purchase below so that you can use the features of this plugin."
+msgstr ""
+
+#: admin/partials/mwb-woocommerce-multiple-shipping-address-admin-license.php:33
+msgid "Purchase Code : "
+msgstr ""
+
+#: admin/partials/mwb-woocommerce-multiple-shipping-address-admin-license.php:35
+msgid "Enter your code here."
+msgstr ""
+
+#: public/class-mwb-woocommerce-multiple-shipping-address-public.php:79
+msgid "Hide Saved Shipping Addresses"
+msgstr ""
+
+#: public/class-mwb-woocommerce-multiple-shipping-address-public.php:79
+#: public/class-mwb-woocommerce-multiple-shipping-address-public.php:303
+#: public/class-mwb-woocommerce-multiple-shipping-address-public.php:345
+msgid "Show Saved Shipping Addresses"
+msgstr ""
+
+#: public/class-mwb-woocommerce-multiple-shipping-address-public.php:79
+#: public/class-mwb-woocommerce-multiple-shipping-address-public.php:326
+#: public/class-mwb-woocommerce-multiple-shipping-address-public.php:368
+msgid "Edit"
+msgstr ""
+
+#: public/class-mwb-woocommerce-multiple-shipping-address-public.php:79
+msgid "Update"
+msgstr ""
+
+#: public/class-mwb-woocommerce-multiple-shipping-address-public.php:79
+msgid "Field is Required"
+msgstr ""
+
+#: public/class-mwb-woocommerce-multiple-shipping-address-public.php:135
+#: public/class-mwb-woocommerce-multiple-shipping-address-public.php:163
+#: public/class-mwb-woocommerce-multiple-shipping-address-public.php:480
+#: public/class-mwb-woocommerce-multiple-shipping-address-public.php:513
+msgid "Your Address has been added"
+msgstr ""
+
+#: public/class-mwb-woocommerce-multiple-shipping-address-public.php:143
+msgid "Address Already Exists"
+msgstr ""
+
+#: public/class-mwb-woocommerce-multiple-shipping-address-public.php:173
+msgid "Please Enter valid Zip Code"
+msgstr ""
+
+#: public/class-mwb-woocommerce-multiple-shipping-address-public.php:184
+#: public/class-mwb-woocommerce-multiple-shipping-address-public.php:192
+msgid ""
+"Want To Ship Your Item To Different Addresses, Click On \" Add Different "
+"Shipping Address\" Button"
+msgstr ""
+
+#: public/class-mwb-woocommerce-multiple-shipping-address-public.php:186
+#: public/class-mwb-woocommerce-multiple-shipping-address-public.php:194
+msgid "Add Different Shipping Address"
+msgstr ""
+
+#: public/class-mwb-woocommerce-multiple-shipping-address-public.php:207
+#: public/class-mwb-woocommerce-multiple-shipping-address-public.php:251
+#: public/class-mwb-woocommerce-multiple-shipping-address-public.php:307
+#: public/class-mwb-woocommerce-multiple-shipping-address-public.php:349
+msgid "Address"
+msgstr ""
+
+#: public/class-mwb-woocommerce-multiple-shipping-address-public.php:208
+#: public/class-mwb-woocommerce-multiple-shipping-address-public.php:252
+msgid "Enter Address"
+msgstr ""
+
+#: public/class-mwb-woocommerce-multiple-shipping-address-public.php:209
+#: public/class-mwb-woocommerce-multiple-shipping-address-public.php:253
+msgid "Enter Street Address "
+msgstr ""
+
+#: public/class-mwb-woocommerce-multiple-shipping-address-public.php:213
+#: public/class-mwb-woocommerce-multiple-shipping-address-public.php:257
+#: public/class-mwb-woocommerce-multiple-shipping-address-public.php:309
+#: public/class-mwb-woocommerce-multiple-shipping-address-public.php:351
+msgid "Town/City"
+msgstr ""
+
+#: public/class-mwb-woocommerce-multiple-shipping-address-public.php:214
+#: public/class-mwb-woocommerce-multiple-shipping-address-public.php:258
+msgid "Enter Town/City Name"
+msgstr ""
+
+#: public/class-mwb-woocommerce-multiple-shipping-address-public.php:233
+#: public/class-mwb-woocommerce-multiple-shipping-address-public.php:279
+msgid "Save Details"
+msgstr ""
+
+#: public/class-mwb-woocommerce-multiple-shipping-address-public.php:308
+#: public/class-mwb-woocommerce-multiple-shipping-address-public.php:350
+msgid "Street Address"
+msgstr ""
+
+#: public/class-mwb-woocommerce-multiple-shipping-address-public.php:310
+#: public/class-mwb-woocommerce-multiple-shipping-address-public.php:352
+msgid "Country"
+msgstr ""
+
+#: public/class-mwb-woocommerce-multiple-shipping-address-public.php:311
+#: public/class-mwb-woocommerce-multiple-shipping-address-public.php:353
+msgid "State"
+msgstr ""
+
+#: public/class-mwb-woocommerce-multiple-shipping-address-public.php:312
+#: public/class-mwb-woocommerce-multiple-shipping-address-public.php:354
+msgid "Zip"
+msgstr ""
+
+#: public/class-mwb-woocommerce-multiple-shipping-address-public.php:313
+#: public/class-mwb-woocommerce-multiple-shipping-address-public.php:355
+msgid "Action"
+msgstr ""
+
+#: public/class-mwb-woocommerce-multiple-shipping-address-public.php:327
+#: public/class-mwb-woocommerce-multiple-shipping-address-public.php:369
+msgid "Delete"
+msgstr ""
+
+#: public/class-mwb-woocommerce-multiple-shipping-address-public.php:404
+#: public/class-mwb-woocommerce-multiple-shipping-address-public.php:432
+msgid "Select Address"
+msgstr ""
+
+#: public/class-mwb-woocommerce-multiple-shipping-address-public.php:485
+#: public/class-mwb-woocommerce-multiple-shipping-address-public.php:518
+msgid "Your address has not been added"
+msgstr ""
+
+#: public/class-mwb-woocommerce-multiple-shipping-address-public.php:524
+msgid "Your address already exists"
+msgstr ""
+
+#: public/class-mwb-woocommerce-multiple-shipping-address-public.php:532
+msgid "Please Enter Valid Zip Code"
+msgstr ""
+
+#: public/class-mwb-woocommerce-multiple-shipping-address-public.php:541
+msgid "No fields can be left blank"
+msgstr ""
+
+#: public/class-mwb-woocommerce-multiple-shipping-address-public.php:549
+msgid "Add Address"
+msgstr ""
+
+#: public/class-mwb-woocommerce-multiple-shipping-address-public.php:569
+#: public/class-mwb-woocommerce-multiple-shipping-address-public.php:597
+msgid "Your address has been deleted"
+msgstr ""
+
+#: public/class-mwb-woocommerce-multiple-shipping-address-public.php:574
+#: public/class-mwb-woocommerce-multiple-shipping-address-public.php:601
+msgid "Your address has not been deleted"
+msgstr ""
+
+#: public/class-mwb-woocommerce-multiple-shipping-address-public.php:607
+msgid "Your address does not exists in your browser"
+msgstr ""
+
+#: public/class-mwb-woocommerce-multiple-shipping-address-public.php:614
+msgid "No address has been selected"
+msgstr ""
+
+#: public/class-mwb-woocommerce-multiple-shipping-address-public.php:652
+#: public/class-mwb-woocommerce-multiple-shipping-address-public.php:675
+msgid "Your Address has been updated"
+msgstr ""
+
+#: public/class-mwb-woocommerce-multiple-shipping-address-public.php:660
+#: public/class-mwb-woocommerce-multiple-shipping-address-public.php:684
+msgid "Your address has not been updated"
+msgstr ""
+
+#: public/class-mwb-woocommerce-multiple-shipping-address-public.php:693
+msgid "Please Enter Valid Postal/Zip Code"
+msgstr ""
+
+#: public/class-mwb-woocommerce-multiple-shipping-address-public.php:967
+#: public/class-mwb-woocommerce-multiple-shipping-address-public.php:978
+msgid "Shipping Address"
+msgstr ""

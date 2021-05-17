@@ -1,0 +1,199 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+ .mwb_woocommerce_msa_saved_user_address_wrapper {
+ 	border: 1px solid #ededed;
+ 	margin-bottom: 40px;
+ 	padding: 15px;
+ }
+ .mwb_woo_msa_user_address_form {
+ 	padding-top: 0px;
+ }
+ .mwb_woo_msa_address_form {
+ 	border: 1px solid #ededed;
+ 	padding: 15px;
+ }
+/*#mwb_woo_msa_address_fields > label {
+	display: block;
+	}*/
+	.woocommerce-billing-fields__field-wrapper {
+		padding-bottom: 5px;
+	}
+/*#mwb_woo_msa_town_city_fields > label, {
+	display: block;
+	}*/
+	#mwb_woo_msa_postal_fields > label, #mwb_woo_msa_address_fields > label, #mwb_woo_msa_town_city_fields > label {
+		display: block;
+	}
+	.mwb_woo_msa_address_sections {
+		border: 1px solid #ededed;
+		display: inline-block;
+		margin-bottom: 15px;
+		margin-right: 10px;
+		padding: 15px;
+		width: 32%;
+	}
+	.mwb_woo_msa_address_sections span {
+		display: block;
+	}
+	.mwb_woo_msa_address_sections:nth-of-type(3n) {
+		margin-right: 0;
+	}
+	.mwb_woo_msa_enable_multiple_shipping #mwb_woo_msa_enable_multiple_shipping_checkbox_wrapper {
+		background-color: #f8f8f8;
+		margin-bottom: 38px;
+		padding: 15px;
+	}
+
+	.mwb_woo_multiple_shipping_address {
+		background: rgba(0, 0, 0, 0.83) none repeat scroll 0 0;
+		height: 100%;
+		left: 0;
+		position: fixed;
+		right: 0;
+		top: -100%;
+		transition: all 0.3s linear 0s;
+		z-index: 999;
+	}
+	.mwb_woo_msa_modal_open{
+		top: 0 !important;
+	}
+	.mwb_woo_msa_enable_multiple_shipping {
+		margin: 0 auto;
+		width: 50%;
+	}
+	.mwb_woo_msa_close_modal {
+		display: inline-block;
+		height: 20px;
+		line-height: 17px;
+		position: absolute;
+		right: 10px;
+		text-align: center;
+		top: 14px;
+		width: 20px;
+		border: 1px solid #dddddd;
+		cursor: pointer;
+		font-weight: bold;
+		font-size: 25px;
+	}
+	#mwb_woo_msa_enable_multiple_shipping_checkbox_wrapper {
+		display: block;
+		height: auto;
+		min-height: 400px;
+		left: 0;
+		margin: 0 auto;
+		overflow-y: scroll;
+		position: absolute;
+		right: 0;
+		top: 50%;
+		transform: translateY(-50%);
+		width: 50%;
+	}
+	#mwb_woo_msa_postal_fields > .address-field span.woocommerce-input-wrapper {
+		margin-left: 20px;
+	}
+	#mwb_woo_msa_postal_fields {
+		margin-top: 10px;
+	}
+	#mwb_woo_msa_address_fields > input {
+		margin-bottom: 15px;
+		width: 100%;
+	}
+	#mwb_woo_msa_town_city_fields > input {
+		width: 100%;
+	}
+	#mwb_woo_msa_postal_fields > input {
+		width: 100%;
+	}
+	#mwb_woo_msa_submit{
+		margin-top: 15px;
+	}
+	.mwb_woocommerce_msa_address_wrapper {
+		margin-top: 15px;
+	}
+/*.mwb_woo_msa_address_modal_button {
+ margin-bottom: 15px;
+ }*/
+ .mwb_woo_msa_user_saved_address_wrapper{
+ 	display: none;
+ }
+ .mwb_woo_show{
+ 	display: block;
+ }
+ .mwb_woo_msa_user_address_collection_wrapper th {
+ 	padding: 15px;
+ }
+ .mwb_woo_msa_open_modal_button.button.alt {
+ 	margin-right: 20px;
+ }
+ .mwb_woo_show {
+ 	margin-top: 25px;
+ 	border: 1px solid #ededec;
+ 	margin-bottom: 35px;
+ }
+ .mwb_woo_multiple_shipping_address_wrapper {
+ 	margin-bottom: 20px;
+ }
+ .mwb_woo_msa_user_address_collections > td {
+ 	padding: 15px;
+ }
+ .mwb_woo_msa_user_address_collection_wrapper.shop_table th:nth-last-child(1) {
+ 	width: 130px;
+ }
+ a.mwb_woo_msa_guest_edit_addr {
+ 	padding-right: 10px;
+ }
+ a.mwb_woo_msa_edit_addr {
+ 	padding-right: 10px;
+ }
+ .mwb_woo_msa_cart_item_address {
+ 	width: 75%;
+ }
+ .mwb_woo_msa_cart_item_wrapper {
+ 	display: flex;
+ 	flex-direction: column-reverse;
+ }
+ .mwb_woo_msa_cart_item_address + .select2 {
+ 	width: 200px !important;
+ }
+ @media only screen and (max-width: 992px) {
+ 	.mwb_woo_msa_address_sections{
+ 		width: 48%;
+ 	}
+ }
+ @media only screen and (max-width: 767px) {
+ 	#mwb_woo_msa_enable_multiple_shipping_checkbox_wrapper{
+ 		width: 90%;
+ 	}
+ 	.mwb_woo_multiple_shipping_address{
+ 		z-index: 999;
+ 		height: calc(100vh - 85px);
+ 	}
+ 	.mwb_woo_msa_modal_open{
+ 		top: 50px!important;
+ 	}
+ 	.mwb_woo_msa_user_address_collections td::before {
+ 		content: attr(data-label);
+ 		float: left;
+ 		font-weight: bold;
+ 		text-transform: uppercase;
+ 	}
+ 	.mwb_woo_msa_user_address_collection_wrapper thead {
+ 		display: none;
+ 	}
+ 	.mwb_woo_msa_user_address_collections {
+ 		border-bottom: 3px solid #ddd;
+ 		display: block;
+ 		margin-bottom: .625em;
+ 	}
+ 	.mwb_woo_msa_open_modal_button.button.alt,.mwb_woocommerce_msa_saved_address{
+ 		margin-bottom: 20px;
+ 	}
+ 	.mwb_woo_msa_user_address_collections td {
+ 		border-bottom: 1px solid #ddd;
+ 		display: block;
+ 		font-size: .8em;
+ 		text-align: right;
+ 	}
+ }

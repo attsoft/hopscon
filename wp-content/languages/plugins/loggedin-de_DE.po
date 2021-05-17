@@ -1,0 +1,132 @@
+# Translation of Plugins - Loggedin &#8211; Limit Active Logins - Stable (latest release) in German
+# This file is distributed under the same license as the Plugins - Loggedin &#8211; Limit Active Logins - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-02-05 16:23:54+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: de\n"
+"Project-Id-Version: Plugins - Loggedin &#8211; Limit Active Logins - Stable (latest release)\n"
+
+#: includes/class-loggedin-admin.php:181
+msgid " Do not allow new login if the limit is reached. Users need to wait for the old login sessions to expire."
+msgstr " Lasse keine neue Anmeldung zu, wenn das Limit erreicht ist. Benutzer müssen warten, bis die alten Anmeldesitzungen abgelaufen sind."
+
+#: includes/class-loggedin-admin.php:181
+msgid "Block:"
+msgstr "Blockieren:"
+
+#: includes/class-loggedin-admin.php:180
+msgid "Allow new login by terminating all other old sessions when the limit is reached."
+msgstr "Neue Anmeldung zulassen, indem alle anderen alten Sitzungen beendet werden, wenn das Limit erreicht ist."
+
+#: includes/class-loggedin-admin.php:180
+msgid "Allow:"
+msgstr "Erlauben:"
+
+#: includes/class-loggedin-admin.php:179
+msgid "Block"
+msgstr "Blockieren"
+
+#: includes/class-loggedin-admin.php:178
+msgid "Allow"
+msgstr "Erlauben"
+
+#: includes/class-loggedin-admin.php:130
+msgid "Login Logic"
+msgstr "Anmelde-Logik"
+
+#: includes/class-loggedin.php:186
+msgid "Maximum no. of active logins found for this account. Please logout from another device to continue."
+msgstr "Die maximale Anzahl aktiver Anmeldungen für dieses Konto wurde festgestellt. Bitte melde dich von einem anderen Gerät ab, um fortzufahren."
+
+#: includes/class-loggedin-admin.php:261
+msgid "I already did"
+msgstr "Habe ich schon erledigt"
+
+#: includes/class-loggedin-admin.php:256
+msgid "Nope, maybe later"
+msgstr "Nein, vielleicht später"
+
+#: includes/class-loggedin-admin.php:251
+msgid "Ok, you deserve it"
+msgstr "Ok, du hast es verdient"
+
+#. translators: %1$s Current user's name. %2$s <strong> %3$s </strong>.
+#: includes/class-loggedin-admin.php:243
+msgid "there"
+msgstr "dort"
+
+#. translators: %1$s Current user's name. %2$s <strong> %3$s </strong>.
+#: includes/class-loggedin-admin.php:242
+msgid "Hey %1$s, I noticed you've been using %2$sLoggedin%3$s plugin for more than 1 week – that’s awesome! Could you please do me a BIG favor and give it a 5-star rating on WordPress? Just to help us spread the word and boost our motivation."
+msgstr "Hallo %1$s, ich habe bemerkt, dass du das %2$sLoggedin%3$s-Plugin seit mehr als einer Woche verwendest – das ist fantastisch! Könntest du mir bitte einen GROSSEN Gefallen tun und ihm eine 5-Sterne-Bewertung auf WordPress geben? Dies hilft uns, bekannter zu werden und unsere Motivation zu steigern."
+
+#: includes/class-loggedin-admin.php:196
+msgid "If you would like to force logout a user from all the devices, enter the user ID."
+msgstr "Wenn du die Abmeldung eines Benutzers von allen Geräten erzwingen möchtest, dann gib die Benutzer-ID ein."
+
+#: includes/class-loggedin-admin.php:194
+msgid "Enter user ID"
+msgstr "Benutzer-ID eingeben"
+
+#: includes/class-loggedin-admin.php:162
+msgid "Even if the browser is closed, login session may exist."
+msgstr "Selbst wenn der Browser geschlossen ist, kann eine Anmeldesitzung bestehen bleiben."
+
+#: includes/class-loggedin-admin.php:162
+msgid "Note: "
+msgstr "Hinweis:"
+
+#: includes/class-loggedin-admin.php:161
+msgid "If this limit reached, next login request will be failed and user will have to logout from one device to continue."
+msgstr "Wenn dieses Limit erreicht ist, wird die nächste Anmeldung fehlschlagen und der Benutzer muss sich von einem Gerät abmelden, um fortzufahren."
+
+#: includes/class-loggedin-admin.php:160
+msgid "Set the maximum no. of active logins a user account can have."
+msgstr "Lege die maximale Anzahl aktiver Anmeldungen fest, die ein Benutzerkonto haben kann."
+
+#: includes/class-loggedin-admin.php:159
+msgid "Enter the limit in number"
+msgstr "Gib das Limit als Zahl ein"
+
+#: includes/class-loggedin-admin.php:139 includes/class-loggedin-admin.php:195
+msgid "Force Logout"
+msgstr "Abmeldung erzwingen"
+
+#: includes/class-loggedin-admin.php:121
+msgid "Maximum Active Logins"
+msgstr "Maximale aktive Anmeldungen"
+
+#. translators: %d User ID of the login user.
+#: includes/class-loggedin-admin.php:86
+msgid "Invalid user ID: %d"
+msgstr "Ungültige Benutzer-ID: %d"
+
+#. translators: %s User name of the logging out user.
+#: includes/class-loggedin-admin.php:74
+msgid "User %s forcefully logged out from all devices."
+msgstr "Benutzer %s wurde erzwungenermaßen von allen Geräten abgemeldet."
+
+#. Author URI of the plugin
+msgid "https://duckdev.com/"
+msgstr "https://duckdev.com/"
+
+#. Author of the plugin
+msgid "Joel James"
+msgstr "Joel James"
+
+#. Description of the plugin
+msgid "Light weight plugin to limit number of active logins from an account. Set maximum number of concurrent logins a user can have from multiple places."
+msgstr "Einfaches Plugin zur Begrenzung der Anzahl aktiver Anmeldungen von einem Konto. Lege die maximale Anzahl der gleichzeitigen Anmeldungen fest, die ein Benutzer von mehreren Orten aus haben kann."
+
+#. Plugin URI of the plugin
+msgid "https://duckdev.com/products/loggedin-limit-active-logins/"
+msgstr "https://duckdev.com/products/loggedin-limit-active-logins/"
+
+#. Plugin Name of the plugin
+msgid "Loggedin - Limit Active Logins"
+msgstr "Loggedin - Limit Active Logins"

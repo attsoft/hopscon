@@ -1,0 +1,50 @@
+2021-05-03T03:24:30+00:00 CRITICAL Uncaught Error: Call to undefined method Automattic\WooCommerce\Admin\Overrides\Order::get_shipping_phone() in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce-twilio-sms-notifications/includes/class-wc-twilio-sms-notification.php:142
+Stack trace:
+#0 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce-twilio-sms-notifications/class-wc-twilio-sms.php(233): WC_Twilio_SMS_Notification->send_automated_customer_notification()
+#1 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/class-wp-hook.php(289): WC_Twilio_SMS->send_customer_notification(7092)
+#2 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#4 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce/includes/class-wc-order.php(363): do_action('woo in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce-twilio-sms-notifications/includes/class-wc-twilio-sms-notification.php on line 142
+
+2021-05-03T03:24:38+00:00 CRITICAL Uncaught Error: Call to undefined method Automattic\WooCommerce\Admin\Overrides\Order::get_shipping_phone() in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce-twilio-sms-notifications/includes/class-wc-twilio-sms-notification.php:142
+Stack trace:
+#0 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce-twilio-sms-notifications/class-wc-twilio-sms.php(233): WC_Twilio_SMS_Notification->send_automated_customer_notification()
+#1 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/class-wp-hook.php(289): WC_Twilio_SMS->send_customer_notification(7093)
+#2 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#4 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce/includes/class-wc-order.php(363): do_action('woo in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce-twilio-sms-notifications/includes/class-wc-twilio-sms-notification.php on line 142
+
+2021-05-03T03:25:08+00:00 CRITICAL Uncaught Error: Call to undefined method Automattic\WooCommerce\Admin\Overrides\Order::get_shipping_phone() in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce-twilio-sms-notifications/includes/class-wc-twilio-sms-notification.php:142
+Stack trace:
+#0 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce-twilio-sms-notifications/class-wc-twilio-sms.php(233): WC_Twilio_SMS_Notification->send_automated_customer_notification()
+#1 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/class-wp-hook.php(289): WC_Twilio_SMS->send_customer_notification(7094)
+#2 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#4 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce/includes/class-wc-order.php(363): do_action('woo in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce-twilio-sms-notifications/includes/class-wc-twilio-sms-notification.php on line 142
+
+2021-05-03T03:33:06+00:00 CRITICAL Uncaught Error: Call to undefined method Automattic\WooCommerce\Admin\Overrides\Order::get_shipping_phone() in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce-twilio-sms-notifications/includes/class-wc-twilio-sms-notification.php:142
+Stack trace:
+#0 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce-twilio-sms-notifications/class-wc-twilio-sms.php(233): WC_Twilio_SMS_Notification->send_automated_customer_notification()
+#1 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/class-wp-hook.php(289): WC_Twilio_SMS->send_customer_notification(7095)
+#2 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#4 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce/includes/class-wc-order.php(363): do_action('woo in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce-twilio-sms-notifications/includes/class-wc-twilio-sms-notification.php on line 142
+
+2021-05-03T03:40:21+00:00 CRITICAL Uncaught Error: Call to undefined method Automattic\WooCommerce\Admin\Overrides\Order::get_shipping_phone() in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce-twilio-sms-notifications/includes/class-wc-twilio-sms-notification.php:142
+Stack trace:
+#0 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce-twilio-sms-notifications/class-wc-twilio-sms.php(233): WC_Twilio_SMS_Notification->send_automated_customer_notification()
+#1 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/class-wp-hook.php(289): WC_Twilio_SMS->send_customer_notification(7096)
+#2 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#4 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce/includes/class-wc-order.php(363): do_action('woo in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce-twilio-sms-notifications/includes/class-wc-twilio-sms-notification.php on line 142
+
+2021-05-03T03:48:29+00:00 CRITICAL Uncaught Error: Call to undefined method Automattic\WooCommerce\Admin\Overrides\Order::get_shipping_phone() in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce-twilio-sms-notifications/includes/class-wc-twilio-sms-notification.php:142
+Stack trace:
+#0 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce-twilio-sms-notifications/class-wc-twilio-sms.php(233): WC_Twilio_SMS_Notification->send_automated_customer_notification()
+#1 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/class-wp-hook.php(289): WC_Twilio_SMS->send_customer_notification(7098)
+#2 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#4 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce/includes/class-wc-order.php(363): do_action('woo in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce-twilio-sms-notifications/includes/class-wc-twilio-sms-notification.php on line 142
+
+2021-05-03T10:22:08+00:00 CRITICAL syntax error, unexpected '}', expecting ',' or ';' in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/dokan/orders/listing.php on line 255
+

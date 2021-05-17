@@ -1,0 +1,24 @@
+
+1). /wp-content/plugins/delivery-drivers-for-woocommerce/public/class-ddwc-public.php
+2). /wp-content/plugins/delivery-drivers-for-woocommerce-pro/delivery-drivers-for-woocommerce-pro.php
+3). /wp-content/plugins/delivery-drivers-for-woocommerce-pro/ddwc-pro-dokan-settings.php
+4). /wp-content/plugins/delivery-drivers-for-woocommerce/admin/ddwc-dashboard-shortcode.php
+5). /wp-content/themes/martfury/inc/frontend/woocommerce.php
+6). /wp-content/plugins/wanderlust-woo-easypost/includes/class-wc-shipping-wanderlust.php
+7). /wp-content/plugins/dokan-vendor-filter/public/partials/kas_dokan_vendor_filter.php
+8). /wp-content/plugins/wp-user-frontend-pro/includes/class-new-user-approve.php
+9). /wp-content/plugins/dokan-pro/modules/store-support/module.php
+10). /wp-content/plugins/dokan-pro/modules/rma/templates/rma/product.php
+11). /wp-content/plugins/fr-address-book-for-woocommerce/src/Fr_Address_Book_for_WooCommerce_Frontend_MyAccount_AddressBookEdit_Action.php
+12). /wp-content/plugins/dokan-pro/modules/rma/templates/rma/request-warranty.php
+13. /wp-content/plugins/delivery-drivers-for-woocommerce/admin/ddwc-woocommerce-driver-ratings.php
+14. /wp-content/plugins/dokan-lite/assets/js/dokan.js
+15. /wp-content/plugins/dokan-pro/modules/vendor-staff/includes/class-staffs.php
+16. /wp-content/plugins/dokan-pro/includes/Refund/Refund.php
+17. /wp-content/plugins/dokan-pro/modules/rma/includes/function.php  :- It's comment because of vendor requirement ( //'no_warranty' => __( 'No Warranty', 'dokan' ), )
+18. /wp-content/plugins/dokan-lite/includes/wc-template.php
+19. /wp-content/plugins/woocommerce/templates/checkout/payment-method.php line number 34
+20. /wp-content/plugins/dokan-pro/modules/rma/includes/class-vendor.php line number 140
+21. /wp-content/themes/martfury-child/assets/js/custom-script.js (edit date 1 March)line number 523
+
+22. /wp-content/plugins/woocommerce-pdf-invoices-packing-slips/templates/Simple/invoice.php (line number 59 to 81)(18-03-21)

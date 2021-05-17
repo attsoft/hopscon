@@ -1,0 +1,78 @@
+Tasks
+1. Strip payment option on cart page
+It is working on https
+
+2. Customer cannot buy from more than one vendor regardless logged-in or not!
+Action Item:
+Aimable - Provide the verbiage for the message we need to display to the end user!
+User cann't buy more than 1 vendor
+
+3. Based on the country selection - User should see the address option as respective country followed the
+address standard (Ship to form)
+State removed according to the curtry
+
+4. Registration form - Do not show the default country selected
+FIxed
+
+5. Opt-in option need to be removed
+Remove from the register page Fixed
+
+6. Driver Registration :
+Action Item : Aimable will provide all the required fields and those fields should be maintained same
+on the new user registration board if user trying to register as driver from there OR if vendor registering the driver.
+Tocheck the all field available or not
+WHen vendor create a driver and user apply for become a driver the same field should be available
+
+7. While emailing to vendor from Admin, Should show "HoPscan" only NOT "Admin Email Address".
+ Fixed
+
+8. Billing for - Check the check button - Does not select the state automatically
+It is wokring form the customer deshbord
+
+9. When a user register and we show options to user for different roles he can become, if he choose one option we will still show the remaining option.
+If user register as vendor he can not become a driver.
+
+10. RMA - Vendor should have option on the product adding page where vendor can have the ability to make the product returnable.
+Note: Need the checkbox at the "customer's Returnable Page" for each item if it was chosen to be
+returnable/returnable with no warranty/ returnable with warranty etc. so that customer can request vendor to do return for respective product they bought or had in the cart or see within the order history
+at the order line level.
+Note : Change the label to "Return" on the customer dashboard.
+Replace option is not available user can only apply return/refund
+
+11. Select a recipient should be blank or not auto selected with any existing recipient on the checkout page.
+Fixed  no one is auto selected 
+
+12. Deleting the driver should keep the user/vendor on the same page
+Note: Do not redirect the user to the "Create a driver" page.
+Fixed vendor still exists in the same page 
+
+13. "Select a recipient" should be renamed as "Add/Select a Recipient"
+Fixed
+
+14. Check if store credit functionality working already or need to implemented!
+Work as default
+
+15. Staff Member - Name should appear at first time it self when staff member created
+Fixed show name
+
+16. A vendor is able to make 1 refund request only for a specific order but once first request been sentto admin for refund there is no indication or acknowledgement if request submitted
+Note: Also "Refund" button is active which can shaded off!
+Fixed can not send multiple time a request for refound
+
+17. After approval of RMA by admin, there is no indication that this was the case for the vendor.
+Fixed
+
+18. When an order is being proceed with refund request, there should be some indication on the product as it is being proceed for refund.
+Fixed
+
+19. Tax Calculation
+It has to enable for the Admin 
+
+
+20. Customer dashboard - Add Recipient Name - first input field has to be removed.
+Field is removed 
+
+21. Aimable will give me the field for product page what a vendor can enter the info for product and should be displayed on the website
+Frequently added product should be shown from the same vendor!
+Now it has not fixed due to some plugins
+

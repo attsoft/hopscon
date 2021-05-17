@@ -1,0 +1,24 @@
+[08.07.2020 10:40:59] Subscription validity check ( 2020-07-08 ): checking subscription pack validity of user #2. This users subscription pack will expire on 1970-01-01
+[08.07.2020 10:40:59] Product exist check: As the package has expired of user #2 we are checking if he has any product
+[08.07.2020 10:40:59] Product status check: As the package has expired of user #2, we are changing his existing product status to draft
+[08.07.2020 10:40:59] Subscription validity check ( 2020-07-08 ): checking subscription pack validity of user #3. This users subscription pack will expire on 1970-01-01
+[08.07.2020 10:40:59] Product exist check: As the package has expired of user #3 we are checking if he has any product
+[08.07.2020 10:40:59] Product status check: As the package has expired of user #3, we are changing his existing product status to draft
+[10.07.2020 08:26:26] Subscription validity check ( 2020-07-10 ): checking subscription pack validity of user #2. This users subscription pack will expire on 1970-01-01
+[10.07.2020 08:26:26] Product exist check: As the package has expired of user #2 we are checking if he has any product
+[10.07.2020 08:26:26] Product status check: As the package has expired of user #2, we are changing his existing product status to draft
+[10.07.2020 08:26:26] Subscription validity check ( 2020-07-10 ): checking subscription pack validity of user #3. This users subscription pack will expire on 1970-01-01
+[10.07.2020 08:26:26] Product exist check: As the package has expired of user #3 we are checking if he has any product
+[10.07.2020 08:26:26] Product status check: As the package has expired of user #3, we are changing his existing product status to draft
+[15.07.2020 10:26:02] Subscription validity check ( 2020-07-15 ): checking subscription pack validity of user #2. This users subscription pack will expire on 1970-01-01
+[15.07.2020 10:26:02] Product exist check: As the package has expired of user #2 we are checking if he has any product
+[15.07.2020 10:26:02] Product status check: As the package has expired of user #2, we are changing his existing product status to draft
+[15.07.2020 10:26:02] Subscription validity check ( 2020-07-15 ): checking subscription pack validity of user #3. This users subscription pack will expire on 1970-01-01
+[15.07.2020 10:26:02] Product exist check: As the package has expired of user #3 we are checking if he has any product
+[15.07.2020 10:26:02] Product status check: As the package has expired of user #3, we are changing his existing product status to draft
+[15.07.2020 10:26:06] Subscription validity check ( 2020-07-15 ): checking subscription pack validity of user #2. This users subscription pack will expire on 1970-01-01
+[15.07.2020 10:26:06] Product exist check: As the package has expired of user #2 we are checking if he has any product
+[15.07.2020 10:26:06] Product status check: As the package has expired of user #2, we are changing his existing product status to draft
+[15.07.2020 10:26:06] Subscription validity check ( 2020-07-15 ): checking subscription pack validity of user #3. This users subscription pack will expire on 1970-01-01
+[15.07.2020 10:26:06] Product exist check: As the package has expired of user #3 we are checking if he has any product
+[15.07.2020 10:26:06] Product status check: As the package has expired of user #3, we are changing his existing product status to draft

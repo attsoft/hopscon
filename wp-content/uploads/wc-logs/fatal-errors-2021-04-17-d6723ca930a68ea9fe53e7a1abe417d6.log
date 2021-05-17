@@ -1,0 +1,279 @@
+2021-04-17T10:55:09+00:00 CRITICAL Uncaught Error: Call to a member function get_results() on null in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php:1356
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(233): WC_flat_Shipping_Method->calculate_shipping(Array)
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(345): WC_Shipping_Method->get_rates_for_package(Array)
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1381): WC_Shipping->calculate_shipping(Array)
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(356): WC_Cart->calculate_shipping()
+#5 /home/hopscon/public_html/hopscan-stg.com/wp-i in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1356
+
+2021-04-17T10:55:17+00:00 CRITICAL Uncaught Error: Call to a member function get_results() on null in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php:1356
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(233): WC_flat_Shipping_Method->calculate_shipping(Array)
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(345): WC_Shipping_Method->get_rates_for_package(Array)
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1381): WC_Shipping->calculate_shipping(Array)
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(356): WC_Cart->calculate_shipping()
+#5 /home/hopscon/public_html/hopscan-stg.com/wp-i in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1356
+
+2021-04-17T10:55:21+00:00 CRITICAL Uncaught Error: Call to a member function get_results() on null in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php:1356
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(233): WC_flat_Shipping_Method->calculate_shipping(Array)
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(345): WC_Shipping_Method->get_rates_for_package(Array)
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1381): WC_Shipping->calculate_shipping(Array)
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(356): WC_Cart->calculate_shipping()
+#5 /home/hopscon/public_html/hopscan-stg.com/wp-i in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1356
+
+2021-04-17T10:55:26+00:00 CRITICAL Uncaught Error: Call to a member function get_results() on null in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php:1356
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(233): WC_flat_Shipping_Method->calculate_shipping(Array)
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(345): WC_Shipping_Method->get_rates_for_package(Array)
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1381): WC_Shipping->calculate_shipping(Array)
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(356): WC_Cart->calculate_shipping()
+#5 /home/hopscon/public_html/hopscan-stg.com/wp-i in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1356
+
+2021-04-17T11:00:19+00:00 CRITICAL Uncaught Error: Call to a member function get_results() on null in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php:1356
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(233): WC_flat_Shipping_Method->calculate_shipping(Array)
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(345): WC_Shipping_Method->get_rates_for_package(Array)
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1381): WC_Shipping->calculate_shipping(Array)
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(337): WC_Cart->calculate_shipping()
+#5 /home/hopscon/public_html/hopscan-stg.c in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1356
+
+2021-04-17T11:00:22+00:00 CRITICAL Uncaught Error: Call to a member function get_results() on null in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php:1356
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(233): WC_flat_Shipping_Method->calculate_shipping(Array)
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(345): WC_Shipping_Method->get_rates_for_package(Array)
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1381): WC_Shipping->calculate_shipping(Array)
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(356): WC_Cart->calculate_shipping()
+#5 /home/hopscon/public_html/hopscan-stg.com/wp-i in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1356
+
+2021-04-17T11:00:25+00:00 CRITICAL Uncaught Error: Call to a member function get_results() on null in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php:1356
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(233): WC_flat_Shipping_Method->calculate_shipping(Array)
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(345): WC_Shipping_Method->get_rates_for_package(Array)
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1381): WC_Shipping->calculate_shipping(Array)
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(337): WC_Cart->calculate_shipping()
+#5 /home/hopscon/public_html/hopscan-stg.c in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1356
+
+2021-04-17T11:00:26+00:00 CRITICAL Uncaught Error: Call to a member function get_results() on null in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php:1356
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(233): WC_flat_Shipping_Method->calculate_shipping(Array)
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(345): WC_Shipping_Method->get_rates_for_package(Array)
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1381): WC_Shipping->calculate_shipping(Array)
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(337): WC_Cart->calculate_shipping()
+#5 /home/hopscon/public_html/hopscan-stg.c in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1356
+
+2021-04-17T11:00:40+00:00 CRITICAL Uncaught Error: Call to a member function get_results() on null in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php:1356
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(233): WC_flat_Shipping_Method->calculate_shipping(Array)
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(345): WC_Shipping_Method->get_rates_for_package(Array)
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1381): WC_Shipping->calculate_shipping(Array)
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(337): WC_Cart->calculate_shipping()
+#5 /home/hopscon/public_html/hopscan-stg.c in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1356
+
+2021-04-17T11:01:38+00:00 CRITICAL Uncaught Error: Call to a member function get_results() on null in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php:1356
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(233): WC_flat_Shipping_Method->calculate_shipping(Array)
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(345): WC_Shipping_Method->get_rates_for_package(Array)
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1381): WC_Shipping->calculate_shipping(Array)
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(337): WC_Cart->calculate_shipping()
+#5 /home/hopscon/public_html/hopscan-stg.c in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1356
+
+2021-04-17T11:01:44+00:00 CRITICAL Uncaught Error: Call to a member function get_results() on null in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php:1356
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(233): WC_flat_Shipping_Method->calculate_shipping(Array)
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(345): WC_Shipping_Method->get_rates_for_package(Array)
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1381): WC_Shipping->calculate_shipping(Array)
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(337): WC_Cart->calculate_shipping()
+#5 /home/hopscon/public_html/hopscan-stg.c in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1356
+
+2021-04-17T11:06:55+00:00 CRITICAL Uncaught Error: Call to a member function get_results() on null in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php:1356
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(233): WC_flat_Shipping_Method->calculate_shipping(Array)
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(345): WC_Shipping_Method->get_rates_for_package(Array)
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1381): WC_Shipping->calculate_shipping(Array)
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(337): WC_Cart->calculate_shipping()
+#5 /home/hopscon/public_html/hopscan-stg.c in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1356
+
+2021-04-17T11:07:01+00:00 CRITICAL Uncaught Error: Call to a member function get_results() on null in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php:1356
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(233): WC_flat_Shipping_Method->calculate_shipping(Array)
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(345): WC_Shipping_Method->get_rates_for_package(Array)
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1381): WC_Shipping->calculate_shipping(Array)
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(337): WC_Cart->calculate_shipping()
+#5 /home/hopscon/public_html/hopscan-stg.c in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1356
+
+2021-04-17T11:07:27+00:00 CRITICAL Uncaught Error: Call to a member function get_results() on null in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php:1356
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(233): WC_flat_Shipping_Method->calculate_shipping(Array)
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(345): WC_Shipping_Method->get_rates_for_package(Array)
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1381): WC_Shipping->calculate_shipping(Array)
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(337): WC_Cart->calculate_shipping()
+#5 /home/hopscon/public_html/hopscan-stg.c in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1356
+
+2021-04-17T11:07:31+00:00 CRITICAL Uncaught Error: Call to a member function get_results() on null in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php:1356
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(233): WC_flat_Shipping_Method->calculate_shipping(Array)
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(345): WC_Shipping_Method->get_rates_for_package(Array)
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1381): WC_Shipping->calculate_shipping(Array)
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(337): WC_Cart->calculate_shipping()
+#5 /home/hopscon/public_html/hopscan-stg.c in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1356
+
+2021-04-17T11:08:13+00:00 CRITICAL Uncaught Error: Call to a member function get_results() on null in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php:1356
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(233): WC_flat_Shipping_Method->calculate_shipping(Array)
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(345): WC_Shipping_Method->get_rates_for_package(Array)
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1381): WC_Shipping->calculate_shipping(Array)
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(337): WC_Cart->calculate_shipping()
+#5 /home/hopscon/public_html/hopscan-stg.c in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1356
+
+2021-04-17T11:08:19+00:00 CRITICAL Uncaught Error: Call to a member function get_results() on null in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php:1356
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(233): WC_flat_Shipping_Method->calculate_shipping(Array)
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(345): WC_Shipping_Method->get_rates_for_package(Array)
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1381): WC_Shipping->calculate_shipping(Array)
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(337): WC_Cart->calculate_shipping()
+#5 /home/hopscon/public_html/hopscan-stg.c in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1356
+
+2021-04-17T11:08:49+00:00 CRITICAL Uncaught Error: Call to a member function get_results() on null in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php:1356
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(233): WC_flat_Shipping_Method->calculate_shipping(Array)
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(345): WC_Shipping_Method->get_rates_for_package(Array)
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1381): WC_Shipping->calculate_shipping(Array)
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(337): WC_Cart->calculate_shipping()
+#5 /home/hopscon/public_html/hopscan-stg.c in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1356
+
+2021-04-17T11:08:55+00:00 CRITICAL Uncaught Error: Call to a member function get_results() on null in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php:1356
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(233): WC_flat_Shipping_Method->calculate_shipping(Array)
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(345): WC_Shipping_Method->get_rates_for_package(Array)
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1381): WC_Shipping->calculate_shipping(Array)
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(337): WC_Cart->calculate_shipping()
+#5 /home/hopscon/public_html/hopscan-stg.c in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1356
+
+2021-04-17T12:20:50+00:00 CRITICAL Uncaught Error: Call to a member function get_results() on null in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php:1356
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(233): WC_flat_Shipping_Method->calculate_shipping(Array)
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(345): WC_Shipping_Method->get_rates_for_package(Array)
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1381): WC_Shipping->calculate_shipping(Array)
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(337): WC_Cart->calculate_shipping()
+#5 /home/hopscon/public_html/hopscan-stg.c in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1356
+
+2021-04-17T12:21:04+00:00 CRITICAL Uncaught Error: Call to a member function get_results() on null in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php:1356
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(233): WC_flat_Shipping_Method->calculate_shipping(Array)
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(345): WC_Shipping_Method->get_rates_for_package(Array)
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1381): WC_Shipping->calculate_shipping(Array)
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(337): WC_Cart->calculate_shipping()
+#5 /home/hopscon/public_html/hopscan-stg.c in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1356
+
+2021-04-17T12:21:59+00:00 CRITICAL Uncaught Error: Call to a member function get_results() on null in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php:1356
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(233): WC_flat_Shipping_Method->calculate_shipping(Array)
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(345): WC_Shipping_Method->get_rates_for_package(Array)
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1381): WC_Shipping->calculate_shipping(Array)
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(337): WC_Cart->calculate_shipping()
+#5 /home/hopscon/public_html/hopscan-stg.c in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1356
+
+2021-04-17T12:22:03+00:00 CRITICAL Uncaught Error: Call to a member function get_results() on null in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php:1356
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(233): WC_flat_Shipping_Method->calculate_shipping(Array)
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(345): WC_Shipping_Method->get_rates_for_package(Array)
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1381): WC_Shipping->calculate_shipping(Array)
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(337): WC_Cart->calculate_shipping()
+#5 /home/hopscon/public_html/hopscan-stg.c in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1356
+
+2021-04-17T12:22:54+00:00 CRITICAL Uncaught Error: Call to a member function get_results() on null in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php:1356
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(233): WC_flat_Shipping_Method->calculate_shipping(Array)
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(345): WC_Shipping_Method->get_rates_for_package(Array)
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1381): WC_Shipping->calculate_shipping(Array)
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(337): WC_Cart->calculate_shipping()
+#5 /home/hopscon/public_html/hopscan-stg.c in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1356
+
+2021-04-17T12:23:06+00:00 CRITICAL Uncaught Error: Call to a member function get_results() on null in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php:1356
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(233): WC_flat_Shipping_Method->calculate_shipping(Array)
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(345): WC_Shipping_Method->get_rates_for_package(Array)
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1381): WC_Shipping->calculate_shipping(Array)
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(337): WC_Cart->calculate_shipping()
+#5 /home/hopscon/public_html/hopscan-stg.c in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1356
+
+2021-04-17T12:24:58+00:00 CRITICAL Uncaught Error: Call to a member function get_results() on null in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php:1356
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(233): WC_flat_Shipping_Method->calculate_shipping(Array)
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(345): WC_Shipping_Method->get_rates_for_package(Array)
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1381): WC_Shipping->calculate_shipping(Array)
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(337): WC_Cart->calculate_shipping()
+#5 /home/hopscon/public_html/hopscan-stg.c in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1356
+
+2021-04-17T12:25:03+00:00 CRITICAL Uncaught Error: Call to a member function get_results() on null in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php:1356
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(233): WC_flat_Shipping_Method->calculate_shipping(Array)
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(345): WC_Shipping_Method->get_rates_for_package(Array)
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1381): WC_Shipping->calculate_shipping(Array)
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(337): WC_Cart->calculate_shipping()
+#5 /home/hopscon/public_html/hopscan-stg.c in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1356
+
+2021-04-17T12:26:22+00:00 CRITICAL Uncaught Error: Call to a member function get_results() on null in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php:1356
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(233): WC_flat_Shipping_Method->calculate_shipping(Array)
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(345): WC_Shipping_Method->get_rates_for_package(Array)
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1381): WC_Shipping->calculate_shipping(Array)
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(337): WC_Cart->calculate_shipping()
+#5 /home/hopscon/public_html/hopscan-stg.c in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1356
+
+2021-04-17T12:26:33+00:00 CRITICAL Uncaught Error: Call to a member function get_results() on null in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php:1356
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(233): WC_flat_Shipping_Method->calculate_shipping(Array)
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(345): WC_Shipping_Method->get_rates_for_package(Array)
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1381): WC_Shipping->calculate_shipping(Array)
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(337): WC_Cart->calculate_shipping()
+#5 /home/hopscon/public_html/hopscan-stg.c in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1356
+
+2021-04-17T12:27:19+00:00 CRITICAL Uncaught Error: Call to a member function get_results() on null in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php:1356
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(233): WC_flat_Shipping_Method->calculate_shipping(Array)
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(345): WC_Shipping_Method->get_rates_for_package(Array)
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1381): WC_Shipping->calculate_shipping(Array)
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(337): WC_Cart->calculate_shipping()
+#5 /home/hopscon/public_html/hopscan-stg.c in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1356
+
+2021-04-17T12:27:26+00:00 CRITICAL Uncaught Error: Call to a member function get_results() on null in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php:1356
+Stack trace:
+#0 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-shipping-method.php(233): WC_flat_Shipping_Method->calculate_shipping(Array)
+#1 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(345): WC_Shipping_Method->get_rates_for_package(Array)
+#2 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(260): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#3 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1381): WC_Shipping->calculate_shipping(Array)
+#4 /home/hopscon/public_html/hopscan-stg.com/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(337): WC_Cart->calculate_shipping()
+#5 /home/hopscon/public_html/hopscan-stg.c in /home/hopscon/public_html/hopscan-stg.com/wp-content/themes/martfury-child/functions.php on line 1356
+

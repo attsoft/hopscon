@@ -1,0 +1,105 @@
+2021-05-07T14:36:22+00:00 CRITICAL Uncaught Error: Wrong parameters for Exception([string $message [, long $code [, Throwable $previous = NULL]]]) in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce-distance-rate-shipping/includes/class-wc-google-distance-matrix-api.php:86
+Stack trace:
+#0 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce-distance-rate-shipping/includes/class-wc-google-distance-matrix-api.php(86): Exception->__construct(Object(WP_Error))
+#1 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce-distance-rate-shipping/includes/class-wc-google-distance-matrix-api.php(131): WC_Google_Distance_Matrix_API->perform_request('origins=5392+Co...')
+#2 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce-distance-rate-shipping/includes/class-wc-shipping-distance-rate.php(702): WC_Google_Distance_Matrix_API->get_distance('5392 Contrecoeu...', 'NY, Rwanda', false, 'driving', 'none', 'imperial', 'rw')
+# in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce-distance-rate-shipping/includes/class-wc-google-distance-matrix-api.php on line 86
+
+2021-05-07T15:00:40+00:00 CRITICAL Uncaught Error: Class 'Dokan_Seller_Setup_Wizard' not found in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/functions.php:255
+Stack trace:
+#0 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-settings.php(525): include()
+#1 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-config.php(179): require_once('/home/attsoft/p...')
+#2 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-load.php(37): require_once('/home/attsoft/p...')
+#3 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-blog-header.php(13): require_once('/home/attsoft/p...')
+#4 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/index.php(17): require('/home/attsoft/p...')
+#5 {main}
+  thrown in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/functions.php on line 255
+
+2021-05-07T15:00:55+00:00 CRITICAL Uncaught Error: Class 'Dokan_Seller_Setup_Wizard' not found in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/functions.php:255
+Stack trace:
+#0 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-settings.php(525): include()
+#1 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-config.php(179): require_once('/home/attsoft/p...')
+#2 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-load.php(37): require_once('/home/attsoft/p...')
+#3 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-admin/admin-ajax.php(22): require_once('/home/attsoft/p...')
+#4 {main}
+  thrown in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/functions.php on line 255
+
+2021-05-07T15:00:55+00:00 CRITICAL Uncaught Error: Class 'Dokan_Seller_Setup_Wizard' not found in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/functions.php:255
+Stack trace:
+#0 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-settings.php(525): include()
+#1 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-config.php(179): require_once('/home/attsoft/p...')
+#2 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-load.php(37): require_once('/home/attsoft/p...')
+#3 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-blog-header.php(13): require_once('/home/attsoft/p...')
+#4 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/index.php(17): require('/home/attsoft/p...')
+#5 {main}
+  thrown in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/functions.php on line 255
+
+2021-05-07T15:00:57+00:00 CRITICAL Uncaught Error: Class 'Dokan_Seller_Setup_Wizard' not found in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/functions.php:255
+Stack trace:
+#0 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-settings.php(525): include()
+#1 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-config.php(179): require_once('/home/attsoft/p...')
+#2 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-load.php(37): require_once('/home/attsoft/p...')
+#3 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-admin/admin-ajax.php(22): require_once('/home/attsoft/p...')
+#4 {main}
+  thrown in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/functions.php on line 255
+
+2021-05-07T15:04:10+00:00 CRITICAL Uncaught Error: Call to undefined function cus_martfury_extra_account() in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/template-parts/headers/layout-2.php:41
+Stack trace:
+#0 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/template.php(732): require()
+#1 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/template.php(676): load_template('/home/attsoft/p...', false, Array)
+#2 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury/inc/frontend/header.php(737): get_template_part('template-parts/...', '2')
+#4 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/class-wp-hook.php(287): martfury_show_header('')
+#5 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#6 /home/attsoft/ in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/template-parts/headers/layout-2.php on line 41
+
+2021-05-07T15:14:52+00:00 CRITICAL Uncaught Error: Call to undefined function cus_martfury_extra_account() in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/template-parts/headers/layout-2.php:41
+Stack trace:
+#0 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/template.php(732): require()
+#1 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/template.php(676): load_template('/home/attsoft/p...', false, Array)
+#2 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury/inc/frontend/header.php(737): get_template_part('template-parts/...', '2')
+#4 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/class-wp-hook.php(287): martfury_show_header('')
+#5 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#6 /home/attsoft/ in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/template-parts/headers/layout-2.php on line 41
+
+2021-05-07T15:15:04+00:00 CRITICAL Uncaught Error: Call to undefined function cus_martfury_extra_account() in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/template-parts/headers/layout-2.php:41
+Stack trace:
+#0 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/template.php(732): require()
+#1 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/template.php(676): load_template('/home/attsoft/p...', false, Array)
+#2 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury/inc/frontend/header.php(737): get_template_part('template-parts/...', '2')
+#4 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/class-wp-hook.php(287): martfury_show_header('')
+#5 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#6 /home/attsoft/ in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/template-parts/headers/layout-2.php on line 41
+
+2021-05-07T15:15:18+00:00 CRITICAL Uncaught Error: Call to undefined function cus_martfury_extra_account() in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/template-parts/headers/layout-2.php:41
+Stack trace:
+#0 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/template.php(732): require()
+#1 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/template.php(676): load_template('/home/attsoft/p...', false, Array)
+#2 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury/inc/frontend/header.php(737): get_template_part('template-parts/...', '2')
+#4 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/class-wp-hook.php(287): martfury_show_header('')
+#5 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#6 /home/attsoft/ in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/template-parts/headers/layout-2.php on line 41
+
+2021-05-07T15:15:26+00:00 CRITICAL Uncaught Error: Call to undefined function cus_martfury_extra_account() in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/template-parts/headers/layout-2.php:41
+Stack trace:
+#0 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/template.php(732): require()
+#1 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/template.php(676): load_template('/home/attsoft/p...', false, Array)
+#2 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury/inc/frontend/header.php(737): get_template_part('template-parts/...', '2')
+#4 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/class-wp-hook.php(287): martfury_show_header('')
+#5 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#6 /home/attsoft/ in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/template-parts/headers/layout-2.php on line 41
+
+2021-05-07T15:15:49+00:00 CRITICAL Uncaught Error: Call to undefined function cus_martfury_extra_account() in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/template-parts/headers/layout-2.php:41
+Stack trace:
+#0 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/template.php(732): require()
+#1 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/template.php(676): load_template('/home/attsoft/p...', false, Array)
+#2 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury/inc/frontend/header.php(737): get_template_part('template-parts/...', '2')
+#4 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/class-wp-hook.php(287): martfury_show_header('')
+#5 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#6 /home/attsoft/ in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/template-parts/headers/layout-2.php on line 41
+

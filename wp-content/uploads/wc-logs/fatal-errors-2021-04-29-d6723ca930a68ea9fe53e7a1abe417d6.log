@@ -1,0 +1,104 @@
+2021-04-29T05:48:34+00:00 CRITICAL Uncaught Error: Wrong parameters for Exception([string $message [, long $code [, Throwable $previous = NULL]]]) in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce-distance-rate-shipping/includes/class-wc-google-distance-matrix-api.php:86
+Stack trace:
+#0 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce-distance-rate-shipping/includes/class-wc-google-distance-matrix-api.php(86): Exception->__construct(Object(WP_Error))
+#1 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce-distance-rate-shipping/includes/class-wc-google-distance-matrix-api.php(131): WC_Google_Distance_Matrix_API->perform_request('origins=Tumba%2...')
+#2 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce-distance-rate-shipping/includes/class-wc-shipping-distance-rate.php(702): WC_Google_Distance_Matrix_API->get_distance('Tumba, Rulindo,...', 'Tumba, Rwanda, ...', false, 'driving', 'none', 'imperial', in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce-distance-rate-shipping/includes/class-wc-google-distance-matrix-api.php on line 86
+
+2021-04-29T05:49:37+00:00 CRITICAL Uncaught Error: Wrong parameters for Exception([string $message [, long $code [, Throwable $previous = NULL]]]) in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce-distance-rate-shipping/includes/class-wc-google-distance-matrix-api.php:86
+Stack trace:
+#0 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce-distance-rate-shipping/includes/class-wc-google-distance-matrix-api.php(86): Exception->__construct(Object(WP_Error))
+#1 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce-distance-rate-shipping/includes/class-wc-google-distance-matrix-api.php(131): WC_Google_Distance_Matrix_API->perform_request('origins=Tumba%2...')
+#2 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce-distance-rate-shipping/includes/class-wc-shipping-distance-rate.php(702): WC_Google_Distance_Matrix_API->get_distance('Tumba, Rulindo,...', 'Tumba, rulind, ...', false, 'driving', 'none', 'imperial', in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce-distance-rate-shipping/includes/class-wc-google-distance-matrix-api.php on line 86
+
+2021-04-29T05:49:40+00:00 CRITICAL Uncaught Error: Wrong parameters for Exception([string $message [, long $code [, Throwable $previous = NULL]]]) in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce-distance-rate-shipping/includes/class-wc-google-distance-matrix-api.php:86
+Stack trace:
+#0 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce-distance-rate-shipping/includes/class-wc-google-distance-matrix-api.php(86): Exception->__construct(Object(WP_Error))
+#1 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce-distance-rate-shipping/includes/class-wc-google-distance-matrix-api.php(131): WC_Google_Distance_Matrix_API->perform_request('origins=Tumba%2...')
+#2 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce-distance-rate-shipping/includes/class-wc-shipping-distance-rate.php(702): WC_Google_Distance_Matrix_API->get_distance('Tumba, Rulindo,...', 'tumba, Kigali, ...', false, 'driving', 'none', 'imperial', in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce-distance-rate-shipping/includes/class-wc-google-distance-matrix-api.php on line 86
+
+2021-04-29T05:49:42+00:00 CRITICAL Uncaught Error: Wrong parameters for Exception([string $message [, long $code [, Throwable $previous = NULL]]]) in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce-distance-rate-shipping/includes/class-wc-google-distance-matrix-api.php:86
+Stack trace:
+#0 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce-distance-rate-shipping/includes/class-wc-google-distance-matrix-api.php(86): Exception->__construct(Object(WP_Error))
+#1 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce-distance-rate-shipping/includes/class-wc-google-distance-matrix-api.php(131): WC_Google_Distance_Matrix_API->perform_request('origins=Tumba%2...')
+#2 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce-distance-rate-shipping/includes/class-wc-shipping-distance-rate.php(702): WC_Google_Distance_Matrix_API->get_distance('Tumba, Rulindo,...', 'Tumba, rul, Kig...', false, 'driving', 'none', 'imperial', in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce-distance-rate-shipping/includes/class-wc-google-distance-matrix-api.php on line 86
+
+2021-04-29T05:49:45+00:00 CRITICAL Uncaught Error: Wrong parameters for Exception([string $message [, long $code [, Throwable $previous = NULL]]]) in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce-distance-rate-shipping/includes/class-wc-google-distance-matrix-api.php:86
+Stack trace:
+#0 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce-distance-rate-shipping/includes/class-wc-google-distance-matrix-api.php(86): Exception->__construct(Object(WP_Error))
+#1 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce-distance-rate-shipping/includes/class-wc-google-distance-matrix-api.php(131): WC_Google_Distance_Matrix_API->perform_request('origins=Tumba%2...')
+#2 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce-distance-rate-shipping/includes/class-wc-shipping-distance-rate.php(702): WC_Google_Distance_Matrix_API->get_distance('Tumba, Rulindo,...', 'Tumba,, Kigali,...', false, 'driving', 'none', 'imperial', in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce-distance-rate-shipping/includes/class-wc-google-distance-matrix-api.php on line 86
+
+2021-04-29T05:49:47+00:00 CRITICAL Uncaught Error: Wrong parameters for Exception([string $message [, long $code [, Throwable $previous = NULL]]]) in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce-distance-rate-shipping/includes/class-wc-google-distance-matrix-api.php:86
+Stack trace:
+#0 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce-distance-rate-shipping/includes/class-wc-google-distance-matrix-api.php(86): Exception->__construct(Object(WP_Error))
+#1 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce-distance-rate-shipping/includes/class-wc-google-distance-matrix-api.php(131): WC_Google_Distance_Matrix_API->perform_request('origins=Tumba%2...')
+#2 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce-distance-rate-shipping/includes/class-wc-shipping-distance-rate.php(702): WC_Google_Distance_Matrix_API->get_distance('Tumba, Rulindo,...', 'tumba rulind, K...', false, 'driving', 'none', 'imperial', in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce-distance-rate-shipping/includes/class-wc-google-distance-matrix-api.php on line 86
+
+2021-04-29T05:49:49+00:00 CRITICAL Uncaught Error: Wrong parameters for Exception([string $message [, long $code [, Throwable $previous = NULL]]]) in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce-distance-rate-shipping/includes/class-wc-google-distance-matrix-api.php:86
+Stack trace:
+#0 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce-distance-rate-shipping/includes/class-wc-google-distance-matrix-api.php(86): Exception->__construct(Object(WP_Error))
+#1 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce-distance-rate-shipping/includes/class-wc-google-distance-matrix-api.php(131): WC_Google_Distance_Matrix_API->perform_request('origins=Tumba%2...')
+#2 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce-distance-rate-shipping/includes/class-wc-shipping-distance-rate.php(702): WC_Google_Distance_Matrix_API->get_distance('Tumba, Rulindo,...', 'tumba rulindo n...', false, 'driving', 'none', 'imperial', in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce-distance-rate-shipping/includes/class-wc-google-distance-matrix-api.php on line 86
+
+2021-04-29T05:49:51+00:00 CRITICAL Uncaught Error: Wrong parameters for Exception([string $message [, long $code [, Throwable $previous = NULL]]]) in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce-distance-rate-shipping/includes/class-wc-google-distance-matrix-api.php:86
+Stack trace:
+#0 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce-distance-rate-shipping/includes/class-wc-google-distance-matrix-api.php(86): Exception->__construct(Object(WP_Error))
+#1 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce-distance-rate-shipping/includes/class-wc-google-distance-matrix-api.php(131): WC_Google_Distance_Matrix_API->perform_request('origins=Tumba%2...')
+#2 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce-distance-rate-shipping/includes/class-wc-shipping-distance-rate.php(702): WC_Google_Distance_Matrix_API->get_distance('Tumba, Rulindo,...', 'Tumba, Rwanda, ...', false, 'driving', 'none', 'imperial', in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce-distance-rate-shipping/includes/class-wc-google-distance-matrix-api.php on line 86
+
+2021-04-29T05:49:53+00:00 CRITICAL Uncaught Error: Wrong parameters for Exception([string $message [, long $code [, Throwable $previous = NULL]]]) in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce-distance-rate-shipping/includes/class-wc-google-distance-matrix-api.php:86
+Stack trace:
+#0 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce-distance-rate-shipping/includes/class-wc-google-distance-matrix-api.php(86): Exception->__construct(Object(WP_Error))
+#1 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce-distance-rate-shipping/includes/class-wc-google-distance-matrix-api.php(131): WC_Google_Distance_Matrix_API->perform_request('origins=Tumba%2...')
+#2 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce-distance-rate-shipping/includes/class-wc-shipping-distance-rate.php(702): WC_Google_Distance_Matrix_API->get_distance('Tumba, Rulindo,...', 'tumba rulindo n...', false, 'driving', 'none', 'imperial', in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce-distance-rate-shipping/includes/class-wc-google-distance-matrix-api.php on line 86
+
+2021-04-29T07:59:21+00:00 CRITICAL Cannot redeclare dokan_load_template() (previously declared in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/functions.php:1508) in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/vendor-edits.php on line 73
+
+2021-04-29T07:59:32+00:00 CRITICAL Cannot redeclare dokan_load_template() (previously declared in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/functions.php:1508) in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/vendor-edits.php on line 73
+
+2021-04-29T07:59:53+00:00 CRITICAL Cannot redeclare dokan_add_help_menu() (previously declared in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/functions.php:1498) in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/vendor-edits.php on line 63
+
+2021-04-29T07:59:59+00:00 CRITICAL Cannot redeclare dokan_add_help_menu() (previously declared in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/functions.php:1498) in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/vendor-edits.php on line 63
+
+2021-04-29T08:00:01+00:00 CRITICAL Cannot redeclare dokan_add_help_menu() (previously declared in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/functions.php:1498) in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/vendor-edits.php on line 63
+
+2021-04-29T08:01:21+00:00 CRITICAL Cannot redeclare dokan_load_template() (previously declared in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/functions.php:1507) in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/vendor-edits.php on line 73
+
+2021-04-29T08:06:08+00:00 CRITICAL Cannot redeclare dokan_load_template() (previously declared in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/functions.php:1508) in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/vendor-edits.php on line 73
+
+2021-04-29T08:08:28+00:00 CRITICAL Cannot redeclare dokan_load_template() (previously declared in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/functions.php:1508) in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/vendor-edits.php on line 73
+
+2021-04-29T08:09:35+00:00 CRITICAL Cannot redeclare dokan_load_template() (previously declared in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/functions.php:1508) in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/vendor-edits.php on line 73
+
+2021-04-29T08:09:54+00:00 CRITICAL Cannot redeclare dokan_load_template() (previously declared in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/functions.php:1508) in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/vendor-edits.php on line 73
+
+2021-04-29T08:10:12+00:00 CRITICAL Cannot redeclare dokan_load_template() (previously declared in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/functions.php:1510) in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/vendor-edits.php on line 73
+
+2021-04-29T08:12:12+00:00 CRITICAL Cannot redeclare dokan_add_help_menu() (previously declared in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/functions.php:1496) in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/vendor-edits.php on line 63
+
+2021-04-29T08:12:31+00:00 CRITICAL Cannot redeclare dokan_add_help_menu() (previously declared in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/functions.php:1496) in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/vendor-edits.php on line 63
+
+2021-04-29T08:50:53+00:00 CRITICAL Cannot redeclare dokan_add_help_menu() (previously declared in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/functions.php:1524) in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/vendor-edits.php on line 63
+
+2021-04-29T08:51:12+00:00 CRITICAL Cannot redeclare dokan_load_document_menu() (previously declared in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/functions.php:1519) in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/vendor-edits.php on line 58
+
+2021-04-29T10:23:54+00:00 CRITICAL Uncaught Error: Cannot use object of type stdClass as array in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/chat.php:61
+Stack trace:
+#0 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/functions.php(1536): require_once()
+#1 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/class-wp-hook.php(287): dokan_load_templatee(Array)
+#2 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#4 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/dokan-lite/includes/Shortcodes/Dashboard.php(95): do_action('dokan_load_cust...', Array)
+#5 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/shortcodes.php(343): WeDevs\Dokan\Shortcodes\Dashboard->render_shortcode('', '', 'dokan-dashboard')
+#6 [internal  in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/chat.php on line 61
+
+2021-04-29T10:24:10+00:00 CRITICAL Uncaught Error: Cannot use object of type stdClass as array in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/chat.php:61
+Stack trace:
+#0 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/functions.php(1536): require_once()
+#1 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/class-wp-hook.php(287): dokan_load_templatee(Array)
+#2 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#4 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/dokan-lite/includes/Shortcodes/Dashboard.php(95): do_action('dokan_load_cust...', Array)
+#5 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/shortcodes.php(343): WeDevs\Dokan\Shortcodes\Dashboard->render_shortcode('', '', 'dokan-dashboard')
+#6 [internal  in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/chat.php on line 61
+

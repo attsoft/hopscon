@@ -1,0 +1,298 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Delivery Drivers for WooCommerce Pro\n"
+"POT-Creation-Date: 2020-04-27 23:30-0400\n"
+"PO-Revision-Date: 2020-04-27 23:26-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: delivery-drivers-for-woocommerce-pro.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: ddwc-pro-dashboard-shortcode.php:76
+msgid "Total"
+msgstr ""
+
+#: ddwc-pro-dashboard-shortcode.php:81
+msgid "Date"
+msgstr ""
+
+#: ddwc-pro-dashboard-shortcode.php:81
+msgid "Address"
+msgstr ""
+
+#: ddwc-pro-dashboard-shortcode.php:143
+msgid "CLAIM"
+msgstr ""
+
+#: ddwc-pro-dashboard-shortcode.php:159
+msgid "Driver Dashboard"
+msgstr ""
+
+#: ddwc-pro-dashboard-shortcode.php:169
+msgid "Assigned Orders"
+msgstr ""
+
+#: ddwc-pro-dashboard-shortcode.php:170
+msgid "You do not have any assigned orders."
+msgstr ""
+
+#: ddwc-pro-dashboard-shortcode.php:180
+msgid "Access Denied"
+msgstr ""
+
+#: ddwc-pro-dashboard-shortcode.php:180
+msgid "Sorry, but you are not able to view this page."
+msgstr ""
+
+#: ddwc-pro-dokan-settings.php:105
+msgid "Call"
+msgstr ""
+
+#: ddwc-pro-woocommerce-account-tab.php:57
+#: ddwc-pro-woocommerce-account-tab.php:82
+#: delivery-drivers-for-woocommerce-pro.php:358
+msgid "Unclaimed Orders"
+msgstr ""
+
+#: delivery-drivers-for-woocommerce-pro.php:56
+#, php-format
+msgid "Please activate the %1$s plugin before activating the pro version."
+msgstr ""
+
+#: delivery-drivers-for-woocommerce-pro.php:151
+msgid "Apply to become a driver"
+msgstr ""
+
+#: delivery-drivers-for-woocommerce-pro.php:152
+msgid "Want to become a delivery driver for our company?"
+msgstr ""
+
+#: delivery-drivers-for-woocommerce-pro.php:153
+msgid "Contact Us"
+msgstr ""
+
+#: delivery-drivers-for-woocommerce-pro.php:186
+msgid "DDWC Pro Settings"
+msgstr ""
+
+#: delivery-drivers-for-woocommerce-pro.php:186
+msgid "The following options are used to configure DDWC Pro settings"
+msgstr ""
+
+#: delivery-drivers-for-woocommerce-pro.php:190
+msgid "Auto-assign Drivers"
+msgstr ""
+
+#: delivery-drivers-for-woocommerce-pro.php:191
+msgid "Let the plugin auto-assign a random driver with each new order"
+msgstr ""
+
+#: delivery-drivers-for-woocommerce-pro.php:196
+msgid "Enable auto-assign drivers"
+msgstr ""
+
+#: delivery-drivers-for-woocommerce-pro.php:201
+msgid "Driver Application"
+msgstr ""
+
+#: delivery-drivers-for-woocommerce-pro.php:202
+msgid ""
+"Allow users to apply to become a delivery driver through the Driver Dashboard"
+msgstr ""
+
+#: delivery-drivers-for-woocommerce-pro.php:206
+msgid "Enable driver applications"
+msgstr ""
+
+#: delivery-drivers-for-woocommerce-pro.php:211
+msgid "Driver Application Contact Link"
+msgstr ""
+
+#: delivery-drivers-for-woocommerce-pro.php:216
+msgid ""
+"If no page is selected, the contact button will link to the administrator "
+"email address"
+msgstr ""
+
+#: delivery-drivers-for-woocommerce-pro.php:221
+msgid "Message type"
+msgstr ""
+
+#: delivery-drivers-for-woocommerce-pro.php:230
+msgid "Choose how you would like messages sent to admins, drivers & customers"
+msgstr ""
+
+#: delivery-drivers-for-woocommerce-pro.php:237
+msgid "Twilio SMS Settings"
+msgstr ""
+
+#: delivery-drivers-for-woocommerce-pro.php:237
+msgid "The following options are used to configure SMS integration with"
+msgstr ""
+
+#: delivery-drivers-for-woocommerce-pro.php:241
+msgid "Twilio Phone Number"
+msgstr ""
+
+#: delivery-drivers-for-woocommerce-pro.php:244
+msgid "Add a Twilio number you own with SMS capabilities"
+msgstr ""
+
+#: delivery-drivers-for-woocommerce-pro.php:249
+msgid "Twilio Account SID"
+msgstr ""
+
+#: delivery-drivers-for-woocommerce-pro.php:252
+msgid "Add your Twilio Account SID"
+msgstr ""
+
+#: delivery-drivers-for-woocommerce-pro.php:257
+msgid "Twilio Auth Token"
+msgstr ""
+
+#: delivery-drivers-for-woocommerce-pro.php:260
+msgid "Add your Twilio Auth Token"
+msgstr ""
+
+#: delivery-drivers-for-woocommerce-pro.php:359
+msgid "View"
+msgstr ""
+
+#: delivery-drivers-for-woocommerce-pro.php:373
+msgid "SMS Updates"
+msgstr ""
+
+#: delivery-drivers-for-woocommerce-pro.php:376
+msgid "Receive order updates via text"
+msgstr ""
+
+#: emails/class-wc-order-completed.php:40
+msgid "DDWC Order Delivered"
+msgstr ""
+
+#: emails/class-wc-order-completed.php:41
+msgid ""
+"An email sent to the administrator when an order is marked completed by "
+"delivery driver."
+msgstr ""
+
+#: emails/class-wc-order-completed.php:45
+msgid "Order Delivered"
+msgstr ""
+
+#. translators: placeholder is {blogname}, a variable that will be substituted when email is sent out
+#: emails/class-wc-order-completed.php:48
+#, php-format
+msgctxt ""
+"default email subject for order completed notice sent to administrator"
+msgid "[%s] Order delivered"
+msgstr ""
+
+#: emails/class-wc-order-completed.php:102
+msgid "Completed - Order"
+msgstr ""
+
+#: emails/class-wc-order-driver-assigned.php:39
+msgid "DDWC Driver Assigned"
+msgstr ""
+
+#: emails/class-wc-order-driver-assigned.php:40
+msgid "An email sent to the delivery driver when they get assigned a new order"
+msgstr ""
+
+#: emails/class-wc-order-driver-assigned.php:44
+msgid "Order Assigned"
+msgstr ""
+
+#. translators: placeholder is {blogname}, a variable that will be substituted when email is sent out
+#: emails/class-wc-order-driver-assigned.php:47
+#, php-format
+msgctxt "default email subject for drivers when they get assigned a new order"
+msgid "[%s] Order assigned"
+msgstr ""
+
+#: emails/class-wc-order-driver-assigned.php:103
+msgid "You have been assigned order"
+msgstr ""
+
+#: emails/class-wc-order-out-for-delivery.php:39
+msgid "DDWC Out for Delivery"
+msgstr ""
+
+#: emails/class-wc-order-out-for-delivery.php:40
+msgid "An email sent to the customer when an order is out for delivery."
+msgstr ""
+
+#: emails/class-wc-order-out-for-delivery.php:44
+msgid "Out for Delivery"
+msgstr ""
+
+#. translators: placeholder is {blogname}, a variable that will be substituted when email is sent out
+#: emails/class-wc-order-out-for-delivery.php:47
+#, php-format
+msgctxt ""
+"default email subject for out for delivery emails sent to the customer"
+msgid "[%s] Your order is out for delivery"
+msgstr ""
+
+#: emails/class-wc-order-out-for-delivery.php:110
+msgid "Order"
+msgstr ""
+
+#: emails/class-wc-order-out-for-delivery.php:110
+msgid " is out for delivery"
+msgstr ""
+
+#: templates/emails/plain/wc-order-completed.php:14
+#: templates/emails/wc-order-completed.php:16
+#, php-format
+msgid ""
+"The order #%d has been marked as complete by the delivery driver. Order "
+"Details:"
+msgstr ""
+
+#: templates/emails/plain/wc-order-driver-assigned.php:14
+#: templates/emails/wc-order-driver-assigned.php:16
+#, php-format
+msgid "You have been assigned Order #%d. Order Details:"
+msgstr ""
+
+#: templates/emails/plain/wc-order-out-for-delivery.php:14
+#: templates/emails/wc-order-out-for-delivery.php:16
+#, php-format
+msgid "The order #%d is now out for delivery. Order Details:"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Delivery Drivers for WooCommerce Pro"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"https://www.deviodigital.com/product/delivery-drivers-for-woocommerce-pro/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Driver management for delivery services"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Devio Digital"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.deviodigital.com"
+msgstr ""

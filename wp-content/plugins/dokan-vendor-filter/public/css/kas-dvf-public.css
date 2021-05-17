@@ -1,0 +1,332 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+ 
+/*
+* Class for overall form
+*/
+.kas_result address {font-size: 13px; color: #ffffff; margin-bottom: 0 !important;}
+.kas_result h3 a {color: #ffffff !important;}
+.kas_result h4 span {color: #ffffff !important;}
+.kas_full_width {width: 100%;}
+.kas_button {
+	right: 20px;
+	position: absolute;
+	top: 164px;
+}
+.kas_overflow {
+	height: 100%;
+	background-color: rgba(0, 0, 0, 0.45);
+	margin-bottom: 20px;
+}
+.kas_result .thumbnail {
+	background-size: 100% 100% !important;
+	background-position: 0 50% !important;
+	height: 220px;
+	padding: 0 !important;
+}
+.kas_result .caption {padding: 25px 20px !important;}
+
+.kas_center{
+		text-align: center !important;
+		padding: 0 0 5px 0;
+}
+@media (min-width: 768px) {
+
+  .kas-search .kas-group {
+    display: inline-block;
+    margin-bottom: 0;
+    vertical-align: middle;
+  }
+  .kas-search .kas-control {
+    display: inline-block;
+    width: auto;
+    vertical-align: middle;
+  }
+  .kas-search .kas-control-static {
+    display: inline-block;
+  }
+  .kas-search .input-group {
+    display: inline-table;
+    vertical-align: middle;
+  }
+  .kas-search .input-group .input-group-addon,
+  .kas-search .input-group .input-group-btn,
+  .kas-search .input-group .kas-control {
+    width: auto;
+  }
+  .kas-search .input-group > .kas-control {
+    width: 100%;
+  }
+  .kas-search .control-label {
+    margin-bottom: 0;
+    vertical-align: middle;
+  }
+  .kas-search .radio,
+  .kas-search .checkbox {
+    display: inline-block;
+    margin-top: 0;
+    margin-bottom: 0;
+    vertical-align: middle;
+  }
+  .kas-search .radio label,
+  .kas-search .checkbox label {
+    padding-left: 0;
+  }
+  .kas-search .radio input[type="radio"],
+  .kas-search .checkbox input[type="checkbox"] {
+    position: relative;
+    margin-left: 0;
+  }
+  .kas-search .has-feedback .kas-control-feedback {
+    top: 0;
+  }
+}
+
+.kas-group {
+  margin-bottom: 15px;
+}
+
+.kas-control {
+  display: block;
+  width: 100%;
+  height: 34px;
+  padding: 6px 12px;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: #555;
+  background-color: #fff;
+  background-image: none;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+          box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+  -webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
+       -o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+          transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+}
+
+.input-group .kas-control {
+  position: relative;
+  z-index: 2;
+  float: left;
+  width: 100%;
+  margin-bottom: 0;
+}
+.input-group .kas-control:focus {
+  z-index: 3;
+}
+.input-group-lg > .kas-control,
+.input-group-lg > .input-group-addon,
+.input-group-lg > .input-group-btn > .btn {
+  height: 46px;
+  padding: 10px 16px;
+  font-size: 18px;
+  line-height: 1.3333333;
+  border-radius: 6px;
+}
+select.input-group-lg > .kas-control,
+select.input-group-lg > .input-group-addon,
+select.input-group-lg > .input-group-btn > .btn {
+  height: 46px;
+  line-height: 46px;
+}
+textarea.input-group-lg > .kas-control,
+textarea.input-group-lg > .input-group-addon,
+textarea.input-group-lg > .input-group-btn > .btn,
+select[multiple].input-group-lg > .kas-control,
+select[multiple].input-group-lg > .input-group-addon,
+select[multiple].input-group-lg > .input-group-btn > .btn {
+  height: auto;
+}
+.input-group-sm > .kas-control,
+.input-group-sm > .input-group-addon,
+.input-group-sm > .input-group-btn > .btn {
+  height: 30px;
+  padding: 5px 10px;
+  font-size: 12px;
+  line-height: 1.5;
+  border-radius: 3px;
+}
+select.input-group-sm > .kas-control,
+select.input-group-sm > .input-group-addon,
+select.input-group-sm > .input-group-btn > .btn {
+  height: 30px;
+  line-height: 30px;
+}
+textarea.input-group-sm > .kas-control,
+textarea.input-group-sm > .input-group-addon,
+textarea.input-group-sm > .input-group-btn > .btn,
+select[multiple].input-group-sm > .kas-control,
+select[multiple].input-group-sm > .input-group-addon,
+select[multiple].input-group-sm > .input-group-btn > .btn {
+  height: auto;
+}
+.input-group-addon,
+.input-group-btn,
+.input-group .kas-control {
+  display: table-cell;
+}	
+/*Loader for form submit*/
+.kas_loader {
+  margin: 100px auto 0;
+  width: 70px;
+  text-align: center;
+  display: none;
+  position: fixed;
+  top: 30%;
+    left: 48%;  
+}
+
+.kas_loader > div {
+  width: 18px;
+  height: 18px;
+  background-color: #333;
+
+  border-radius: 100%;
+  display: inline-block;
+  -webkit-animation: sk-bouncedelay 1.4s infinite ease-in-out both;
+  animation: sk-bouncedelay 1.4s infinite ease-in-out both;
+}
+
+.kas_loader .bounce1 {
+  -webkit-animation-delay: -0.32s;
+  animation-delay: -0.32s;
+}
+
+.kas_loader .bounce2 {
+  -webkit-animation-delay: -0.16s;
+  animation-delay: -0.16s;
+}
+
+@-webkit-keyframes sk-bouncedelay {
+  0%, 80%, 100% { -webkit-transform: scale(0) }
+  40% { -webkit-transform: scale(1.0) }
+}
+
+@keyframes sk-bouncedelay {
+  0%, 80%, 100% { 
+    -webkit-transform: scale(0);
+    transform: scale(0);
+  } 40% { 
+    -webkit-transform: scale(1.0);
+    transform: scale(1.0);
+  }
+}
+
+/*Google map */
+
+.kas_map_info{
+    overflow: hidden;
+    white-space: nowrap;
+}
+.kas_map_info p{
+    text-align: center;
+    font-size: 20px;
+    margin: 0;
+}
+.kas_map_imp{
+height: 120px;
+width: 260px;
+display: inline-block;
+}
+
+.kas_map_left{
+	float: left;
+width:60%; display: inline-block
+}
+.kas_map_right{
+	float: left;
+	height: 85px;
+width:40%; display: inline-block;
+}
+
+/** Result content */
+.kas_row {
+  margin-right: -15px;
+  margin-left: -15px;
+}
+
+.kas_col{
+	  position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+	float: left;
+	width: 50%;
+}
+
+.kas_thumbnail {
+  display: block;
+  padding: 4px;
+  margin-bottom: 20px;
+  line-height: 1.42857143;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  -webkit-transition: border .2s ease-in-out;
+       -o-transition: border .2s ease-in-out;
+          transition: border .2s ease-in-out;
+    background-size: 100% 100% !important;
+	background-position: 0 50% !important;
+	height: 220px;
+	padding: 0 !important;
+}
+.kas_thumbnail > img,
+.kas_thumbnail a > img {
+  margin-right: auto;
+  margin-left: auto;
+  margin: 2px;
+  width: 100%;
+  height: 150px;
+}
+a.kas_thumbnail:hover,
+a.kas_thumbnail:focus,
+a.kas_thumbnail.active {
+  border-color: #337ab7;
+}
+.kas_thumbnail .caption {
+  padding: 9px;
+  color: #333;
+}
+
+.kas-form-horizontal .kas-radio,
+.kas-form-horizontal .kas-checkbox,
+.kas-form-horizontal .kas-radio-inline,
+.kas-form-horizontal .kas-checkbox-inline {
+  padding-top: 7px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.kas-form-horizontal .kas-radio,
+.kas-form-horizontal .kas-checkbox {
+  min-height: 27px;
+}
+.kas-form-horizontal .kas-form-group {
+  margin-right: -15px;
+  margin-left: -15px;
+}
+@media (min-width: 768px) {
+  .kas-form-horizontal .kas-control-label {
+    padding-top: 7px;
+    margin-bottom: 0;
+    text-align: right;
+  }
+}
+.kas-form-horizontal .kas-has-feedback .kas-form-control-feedback {
+  right: 15px;
+}
+@media (min-width: 768px) {
+  .kas-form-horizontal .kas-form-group-lg .kas-control-label {
+    padding-top: 11px;
+    font-size: 18px;
+  }
+}
+@media (min-width: 768px) {
+  .kas-form-horizontal .kas-group-sm .kas-control-label {
+    padding-top: 6px;
+    font-size: 12px;
+  }
+}
+

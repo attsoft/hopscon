@@ -1,0 +1,8 @@
+2021-04-28T10:30:16+00:00 CRITICAL Cannot redeclare bbloomer_use_geolocated_user_country() (previously declared in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/functions.php:581) in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/functions.php on line 1510
+
+2021-04-28T10:30:25+00:00 CRITICAL Cannot redeclare bbloomer_use_geolocated_user_country() (previously declared in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/functions.php:581) in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/functions.php on line 1510
+
+2021-04-28T10:30:26+00:00 CRITICAL Cannot redeclare bbloomer_use_geolocated_user_country() (previously declared in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/functions.php:581) in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/functions.php on line 1510
+
+2021-04-28T10:30:29+00:00 CRITICAL Cannot redeclare bbloomer_use_geolocated_user_country() (previously declared in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/functions.php:581) in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/functions.php on line 1510
+

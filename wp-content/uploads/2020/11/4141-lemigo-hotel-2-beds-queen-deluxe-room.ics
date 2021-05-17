@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WooThemes//WooCommerce Bookings 1.15.29//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:HoPscan
+X-ORIGINAL-URL:http://ewt.webdesigntexas.us/
+X-WR-CALDESC:Bookings from HoPscan
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20201108
+UID:wc_bookings_4141
+DTSTAMP:20201107T161537
+LOCATION:
+DESCRIPTION:Resource #4138 - TV-Screen\n\nChild #1: 1\n\nBooking description:\nLemigo Hotel - 2 Beds Queen Deluxe Room
+URL;VALUE=URI:http://ewt.webdesigntexas.us/my-account/view-order/4143/
+SUMMARY:#4141 - Lemigo Hotel - 2 Beds Queen Deluxe Room
+DTSTART;VALUE=DATE:20201105
+END:VEVENT
+END:VCALENDAR

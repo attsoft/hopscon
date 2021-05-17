@@ -1,0 +1,69 @@
+2021-04-30T03:26:01+00:00 CRITICAL Uncaught Error: Call to undefined function bp_core_get_username() in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/functions.php:1572
+Stack trace:
+#0 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/class-wp-hook.php(287): forum_example_hook_endpoint('http://ewt.webd...', 'chat-support', '', 'http://ewt.webd...')
+#1 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/plugin.php(212): WP_Hook->apply_filters('http://ewt.webd...', Array)
+#2 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce/includes/wc-page-functions.php(117): apply_filters('woocommerce_get...', 'http://ewt.webd...', 'chat-support', '', 'http://ewt.webd...')
+#3 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce/includes/wc-account-functions.php(183): wc_get_endpoint_url('chat-support', '', 'http://ewt.webd...')
+#4 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerc in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/functions.php on line 1572
+
+2021-04-30T03:27:02+00:00 CRITICAL Uncaught Error: Unsupported operand types in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/woocommerce-edits.php:543
+Stack trace:
+#0 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/class-wp-hook.php(289): misha_log_history_link(NULL)
+#1 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/plugin.php(212): WP_Hook->apply_filters(NULL, Array)
+#2 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce/includes/wc-account-functions.php(130): apply_filters('woocommerce_acc...', Array, Array)
+#3 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce/templates/myaccount/navigation.php(27): wc_get_account_menu_items()
+#4 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce/includes/wc-core-functions.php(344): include('/home/attsoft/p...')
+#5 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce/includes/wc-templa in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/woocommerce-edits.php on line 543
+
+2021-04-30T03:27:54+00:00 CRITICAL Uncaught Error: Call to undefined function bp_core_get_username() in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/functions.php:1569
+Stack trace:
+#0 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/class-wp-hook.php(287): chat_support_hook_endpoint('http://ewt.webd...', 'chat-support', '', 'http://ewt.webd...')
+#1 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/plugin.php(212): WP_Hook->apply_filters('http://ewt.webd...', Array)
+#2 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce/includes/wc-page-functions.php(117): apply_filters('woocommerce_get...', 'http://ewt.webd...', 'chat-support', '', 'http://ewt.webd...')
+#3 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce/includes/wc-account-functions.php(183): wc_get_endpoint_url('chat-support', '', 'http://ewt.webd...')
+#4 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/functions.php on line 1569
+
+2021-04-30T03:28:42+00:00 CRITICAL Uncaught Error: Call to undefined function bp_core_get_username() in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/functions.php:1575
+Stack trace:
+#0 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/class-wp-hook.php(287): forum_example_hook_endpoint('http://ewt.webd...', 'example-forum', '', 'http://ewt.webd...')
+#1 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/plugin.php(212): WP_Hook->apply_filters('http://ewt.webd...', Array)
+#2 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce/includes/wc-page-functions.php(117): apply_filters('woocommerce_get...', 'http://ewt.webd...', 'example-forum', '', 'http://ewt.webd...')
+#3 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce/includes/wc-account-functions.php(183): wc_get_endpoint_url('example-forum', '', 'http://ewt.webd...')
+#4 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocomm in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/functions.php on line 1575
+
+2021-04-30T03:28:51+00:00 CRITICAL Uncaught Error: Call to undefined function bp_core_get_username() in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/functions.php:1575
+Stack trace:
+#0 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/class-wp-hook.php(287): forum_example_hook_endpoint('http://ewt.webd...', 'example-forum', '', 'http://ewt.webd...')
+#1 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/plugin.php(212): WP_Hook->apply_filters('http://ewt.webd...', Array)
+#2 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce/includes/wc-page-functions.php(117): apply_filters('woocommerce_get...', 'http://ewt.webd...', 'example-forum', '', 'http://ewt.webd...')
+#3 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce/includes/wc-account-functions.php(183): wc_get_endpoint_url('example-forum', '', 'http://ewt.webd...')
+#4 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocomm in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/functions.php on line 1575
+
+2021-04-30T03:30:41+00:00 CRITICAL Uncaught Error: Call to undefined function bp_core_get_username() in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/functions.php:1576
+Stack trace:
+#0 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/class-wp-hook.php(287): forum_example_hook_endpoint('http://ewt.webd...', 'example-forum', '', 'http://ewt.webd...')
+#1 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-includes/plugin.php(212): WP_Hook->apply_filters('http://ewt.webd...', Array)
+#2 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce/includes/wc-page-functions.php(117): apply_filters('woocommerce_get...', 'http://ewt.webd...', 'example-forum', '', 'http://ewt.webd...')
+#3 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocommerce/includes/wc-account-functions.php(183): wc_get_endpoint_url('example-forum', '', 'http://ewt.webd...')
+#4 /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/plugins/woocomm in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/functions.php on line 1576
+
+2021-04-30T05:59:10+00:00 CRITICAL Cannot redeclare wk_new_menu_items() (previously declared in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/functions.php:1600) in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/functions.php on line 1616
+
+2021-04-30T05:59:13+00:00 CRITICAL Cannot redeclare wk_new_menu_items() (previously declared in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/functions.php:1600) in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/functions.php on line 1616
+
+2021-04-30T06:15:24+00:00 CRITICAL Object of class WP_User could not be converted to string in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/user-chat.php on line 23
+
+2021-04-30T06:15:57+00:00 CRITICAL Object of class WP_User could not be converted to string in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/user-chat.php on line 23
+
+2021-04-30T06:16:18+00:00 CRITICAL Object of class WP_User could not be converted to string in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/user-chat.php on line 23
+
+2021-04-30T07:46:00+00:00 CRITICAL Object of class WP_User could not be converted to string in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/chat.php on line 130
+
+2021-04-30T07:46:27+00:00 CRITICAL Object of class WP_User could not be converted to string in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/chat.php on line 130
+
+2021-04-30T07:47:27+00:00 CRITICAL Object of class WP_User could not be converted to string in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/chat.php on line 140
+
+2021-04-30T07:47:35+00:00 CRITICAL Object of class WP_User could not be converted to string in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/chat.php on line 140
+
+2021-04-30T07:47:57+00:00 CRITICAL Object of class WP_User could not be converted to string in /home/attsoft/public_html/ewt.webdesigntexas.us/hopscan/wp-content/themes/martfury-child/chat.php on line 140
+
