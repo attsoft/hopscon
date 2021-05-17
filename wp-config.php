@@ -56,7 +56,7 @@ define( 'DB_USER', "attsoft_ewthopscan" );
 
 define( 'DB_PASSWORD', "attsoft_ewthopscan" );
 
-
+//we are using mongodb
 
 /** MySQL hostname */
 
